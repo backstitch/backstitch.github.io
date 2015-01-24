@@ -6,7 +6,7 @@ require "jekyll"
 
 
 # Change your GitHub reponame
-GITHUB_REPONAME = "backstitch/backstitch.github.com"
+GITHUB_REPONAME = "backstitch/backstitch.github.io"
 
 desc "Generate blog files"
 task :generate do
