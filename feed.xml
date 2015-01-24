@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>http://docs.backstit.ch</link>
+    <atom:link href="http://docs.backstit.ch/feed.xml" rel="self" type="application/rss+xml" />
+    <description></description>
+    <language>en-us</language>
+    <pubDate>Sat, 24 Jan 2015 20:46:51 +0000</pubDate>
+    <lastBuildDate>Sat, 24 Jan 2015 20:46:51 +0000</lastBuildDate>
+
+    
+    
+    <item>
+      <title>FAQ</title>
+      <link>http://docs.backstit.ch/2015/01/24/faq/</link>
+      <pubDate>Sat, 24 Jan 2015 00:00:00 +0000</pubDate>
+      <author></author>
+      <guid>http://docs.backstit.ch/2015/01/24/faq</guid>
+      <description>&lt;h1 id=&quot;what_is_a_topic_page&quot;&gt;What is a Topic Page?&lt;/h1&gt;
+
+&lt;p&gt;A topic page is a collection of content that is focused around an idea.&lt;/p&gt;
+
+&lt;p&gt;Including content from many sources such as News, Blogs, Twitter, Facebook, Instagram, YouTube, and Tumblr. Topic pages allow you to reorganize the web around your own personalized view.&lt;/p&gt;
+
+&lt;h1 id=&quot;how_do_i_create_a_new_topic_page&quot;&gt;How do I create a new topic page?&lt;/h1&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/create_new_topic.png&#39; /&gt;&lt;/div&gt;
+&lt;p&gt;To create a new topic page follow these simple steps:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Click the “+ New Topic” button located in the upper-right portion of the screen&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;Click “Create A New Topic”. This will pop up a dialog that walks you through the rest of the process.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;what_is_the_difference_between_a_public_and_private_topic&quot;&gt;What is the difference between a public and private topic?&lt;/h1&gt;
+
+&lt;p&gt;While creating a topic, you have the option of allowing “Everyone” or “Just me” to see your topic.&lt;/p&gt;
+
+&lt;p&gt;If you choose “just me” only you will have access to a topic.&lt;/p&gt;
+
+&lt;p&gt;If you choose “everyone” anyone can see your topic, follow it, and it could be added to our public topic catalog.&lt;/p&gt;
+
+&lt;h1 id=&quot;can_i_browse_other_peoples_topics&quot;&gt;Can I browse other people’s topics?&lt;/h1&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/discover_topic.png&#39; /&gt;&lt;/div&gt;
+&lt;p&gt;Yes! To access our topic catalog:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Click the “+New Topic” button in the upper right corner of the screen&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;Click “Discover a topic”&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/topic_catalog.png&#39; /&gt;&lt;/div&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Select a category from the menu on the left-hand side of your screen&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;Click on the topic banner to go check it out or follow it directly by clicking the “+” button in the upper-right corner of the topic banner&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;once_ive_created_and_followed_some_topics_how_do_i_navigate_to_them&quot;&gt;Once I’ve created and followed some topics, how do I navigate to them?&lt;/h1&gt;
+
+&lt;p&gt;Located at the top of your screen, you’ll find our topic navigator.&lt;/p&gt;
+
+&lt;p&gt;If you click on the navigator, you will be shown your five most-visited topics, ordered by how often you visit them.&lt;/p&gt;
+
+&lt;p&gt;You will also find your “What’s New” topic page, “See All” and “New Topic” selections.&lt;/p&gt;
+
+&lt;p&gt;You can easily search for any of your topics using the navigator.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/topic_switcher.png&#39; /&gt;&lt;/div&gt;
+&lt;p&gt;Clicking on ‘New Topic’ will launch the new-topic dialog.&lt;/p&gt;
+
+&lt;p&gt;Clicking on ‘See all’ will bring you to your personal topic catalog.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/my_topics.png&#39; /&gt;&lt;/div&gt;
+&lt;h1 id=&quot;what_is_the_whats_new_topic_page&quot;&gt;What is the ‘What’s New’ topic page?&lt;/h1&gt;
+
+&lt;p&gt;The ‘What’s New’ topic page is an overview compilation of the newest content contained in all of your topic pages.&lt;/p&gt;
+
+&lt;h1 id=&quot;editing_a_topic_page&quot;&gt;Editing a topic page&lt;/h1&gt;
+
+&lt;p&gt;Once on your topic page, click the ‘edit’ button on the topic toolbar, located under the banner.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/edit_button.png&#39; /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;How do I add a feed to one of my topic pages?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Once on the edit topic dashboard, you will see a list of all of your included sources, with the “+ add more” button at the top. Clicking this will open the add-sources dialog, allowing you to search for and add new sources to your topic page.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/add_sources.png&#39; /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;What if I want my topic to be even more specific?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;From the edit topic dashboard, you can also set specific phrase filters on your topic, which will tailor the content delivered to your topic page even more specifically.&lt;/p&gt;
+
+&lt;p&gt;We offer three different types of filters; include, exclude, and Not Safe For Work (NSFW).&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Include filters ensure that only content mentioning that phrase will be delivered from your sources&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/include_filter.png&#39; /&gt;&lt;/div&gt;
+&lt;ol&gt;
+&lt;li&gt;Exclude filters will ensure that all content mentioning that phrase will be ignored.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/exclude_filters.png&#39; /&gt;&lt;/div&gt;
+&lt;ol&gt;
+&lt;li&gt;The “Hide Obscene Content” filter box will ensure that all content delivered to your topic page will be family and work-friendly based on keywords.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/nsfw_filter.png&#39; /&gt;&lt;/div&gt;
+&lt;p&gt;You can filter any part of your source, be it the source title, the content, or even the URL.&lt;/p&gt;
+
+&lt;p&gt;Don’t like content from a certain Twitter account? Add that Twitter handle to the exclude filters.&lt;/p&gt;
+
+&lt;p&gt;Only want articles mentioning “startups” in the body or anywhere in the source material? Add “startups” to your include filters.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;What if I only want certain sources to be filtered?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;You can create both include and exclude filters on individual sources as well! If you only want a single source to be filtered (for example, you only want articles from CNN about your local city, or you don’t want articles from CNN about your least-favorite city), you can set filters on only that source.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/click_individual_feed.png&#39; /&gt;&lt;/div&gt;
+&lt;p&gt;Click on any individual feed in the Included Sources section of the edit dashboard, and you will be greeted by a pop-up allowing you to set individual source-filters.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/source_filters.png&#39; /&gt;&lt;/div&gt;
+&lt;p&gt;Here, you can add any phrases that content must include (in green), and you can add any phrases that should be ignored (in red). You may also remove this source from your topic by clicking the ‘remove’ button.&lt;/p&gt;
+
+&lt;p&gt;If you have any questions, concerns, or comments, &lt;a href=&#39;mailto:team@backstit.ch&#39;&gt;contact us&lt;/a&gt;!&lt;/p&gt;</description>
+    </item>
+    
+    
+
+  </channel> 
+</rss>
