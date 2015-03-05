@@ -25,6 +25,16 @@ Once your organization is created, you can access your organization dashboard by
 
 Clicking on your organization name will bring you to the organization dashboard. Here you can manage your organization, view analytics, submit a support ticket, create topics, etc. 
 
+The sections available in the organization dashboard are: 
+
+- [Dashboard](#Dashboard)
+- [Team Members](#TeamMembers)
+- [Topics](#Topics)
+- [Custom Theme](#Theme)
+- [Billing](#Billing)
+- [Support](#Support)
+
+<a name='Dashboard'></a>
 ## Dashboard
 
 The dashboard tab is where you can view and manage common organization information and settings. If you have any topics with the API or widget add-on enabled (more info [here]({% post_url 2015-03-04-add-ons %})), you can view how many calls are currently used and what topic is making those requests using the two sections on the left (Total API Calls, and API Requests).
@@ -35,6 +45,7 @@ Underneath that is your organization's API key, which is used to make API and wi
 
 Finally, the Email Digest section allows you to manage if and when your team-members receive a digest of updates. You can choose whether or not to send a digest at all, what days of the week to send it on, and at what time the digest gets sent out. 
 
+<a name='TeamMembers'></a>
 ## Team Members
 
 The team members tab allows you to create, delete, and edit teams within your organization, as well as keep track of how active your team members are on backstitch. 
@@ -59,6 +70,7 @@ There are two methods by which your team members can join your backstitch organi
   
 Users that are already apart of the organization can be added to the currently selected team by clicking on the '+Add Member' button. 
 
+<a name='Topics'></a>
 ## Topics
 
 The topics tab allows you to create, edit, and delete your team topics. These topics are limited by your plan (more info on that [here]({% post_url 2015-03-04-plans %})).
@@ -96,7 +108,13 @@ Business plan members can choose their color to re-brand backstitch with. This w
 
 <div class="full zoomable"><img src="/images/org_color.png"></div>
 
-#### Support
+<a name='Billing'></a>
+## Billing
+
+The billing section is where you can change your backstitch for business plan, view your invoices, and view usage statistics for your organization's topic, user and API usage. You can also add and remove a payment method for your organization's backstitch for business plan, here.
+
+<a name='Support'></a>
+## Support
 
 This tab allows you to find links to our API and widget documentation, as well as links back to this help document for future reference. Organization administrators can also submit support tickets on this tab, if they have any comments, questions, or concerns regarding anything with backstitch, their organization, or anything else. 
 
