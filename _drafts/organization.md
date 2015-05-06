@@ -15,7 +15,7 @@ author:
 
 Organizations are only available to Backstitch for Business customers. For more information, click [here](http://backstit.ch/business).
 
-Organizations are made up of teams. Backstitch for Business users that are apart of the Business plan can create unlimited teams as they see fit, while members of the Team plan are only allowed the first team which contains all members of the organization (more info on plans [here]({% post_url 2015-03-04-plans %})).
+Organizations are made up of teams. Backstitch for Business users that are apart of the Business plan can create unlimited teams as they see fit, while members of the Team plan are only allowed the first team which contains all members of the organization (more info on plans [here]()).
 
 ### Organization Settings 
 
@@ -37,7 +37,7 @@ The sections available in the organization dashboard are:
 <a name='Dashboard'></a>
 ## Dashboard
 
-The dashboard tab is where you can view and manage common organization information and settings. If you have any topics with the API or widget add-on enabled (more info [here]({% post_url 2015-03-04-add-ons %})), you can view how many calls are currently used and what topic is making those requests using the two sections on the left (Total API Calls, and API Requests).
+The dashboard tab is where you can view and manage common organization information and settings. If you have any topics with the API or widget add-on enabled (more info [here]()), you can view how many calls are currently used and what topic is making those requests using the two sections on the left (Total API Calls, and API Requests).
 
 The right-hand column contains the Authenticated Services section, which allows your organization to authorize social media accounts for use in the organization's topic pages. Organizations use organization-wide service authentication so your team-members don't have to authenticate their individual accounts. 
 
@@ -52,7 +52,7 @@ The team members tab allows you to create, delete, and edit teams within your or
 
 #### Add Team
 
-Clicking the '+Add Team' button allows you to create a new team for your organization. Different teams can have different topic pages and admins, but are limited by your plan (more info on plans [here]({% post_url 2015-03-04-plans %})). 
+Clicking the '+Add Team' button allows you to create a new team for your organization. Different teams can have different topic pages and admins, but are limited by your plan (more info on plans [here]()).
 
 <div class="full zoomable"><img src="/images/add_team.png"></div>
 
@@ -73,7 +73,7 @@ Users that are already apart of the organization can be added to the currently s
 <a name='Topics'></a>
 ## Topics
 
-The topics tab allows you to create, edit, and delete your team topics. These topics are limited by your plan (more info on that [here]({% post_url 2015-03-04-plans %})).
+The topics tab allows you to create, edit, and delete your team topics. These topics are limited by your plan (more info on that [here]()).
 
 You can create a new topic for your team here by clicking the "+Create Topic" button. You can also create a topic for your team by clicking the '+New Topic' button on the navigation bar, clicking "Create A New Topic" and then selecting your team from the dropdown.
 
@@ -88,7 +88,7 @@ There are a couple of different options for your topics when they are apart of a
 
 ## Theme
 
-The theme tab allows you to change your organization's name and white-label backstitch with your team's color and logo (available only to Business plan subscribers, more info [here]({% post_url 2015-03-04-plans %})).
+The theme tab allows you to change your organization's name and white-label backstitch with your team's color and logo (available only to Business plan subscribers, more info [here]()).
 
 #### Name
 

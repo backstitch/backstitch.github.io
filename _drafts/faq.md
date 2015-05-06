@@ -69,24 +69,24 @@ The ‘What’s New’ topic page is an overview compilation of the newest conte
 
 A filter in backstitch allows you to tailor your topic pages to your specific interests and needs. Placing a filter on a topic or source will allow you to get even more specific results tailored to what you care about seeing.
 
-For more information about filters, click [here]({% post_url 2015-03-04-filters %})
+For more information about filters, click [here]()
 
 # What is a source?
 
 A source is where the content in your topic pages comes from. Sources can be many different things, including Facebook pages, Instagram profiles, RSS feeds, and more. A topic page will automatically crawl these sources for results. 
 
-For more information about sources, click [here]({% post_url 2015-03-04-sources %})
+For more information about sources, click [here]()
 
 # How do I manage my account? 
 
 In the upper-right corner of backstitch, you will see a gear icon. Clicking this will open up a context menu that contains an 'Account Settings' option. Clicking this will bring you to your account settings dashboard.
 
-For more information about account settings, click [here]({% post_url 2015-03-04-account-settings %})
+For more information about account settings, click [here])
 
 # How do I manage my organzation? 
 
 Also in the context menu accessed by clicking the gear in the upper-right hand corner of the screen, you will see the name of your managed organization. Clicking on this will bring you to the organization dashboard.
 
-For more information about organizations, click [here]({% post_url 2015-03-04-organization %})
+For more information about organizations, click [here]()
  
 

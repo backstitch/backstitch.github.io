@@ -15,7 +15,7 @@ author:
 
 Add-ons are only available to Backstitch for Business customers. For more information, click [here](http://backstit.ch/business).
 
-Backstitch offers 5 different topic add-ons (as of now) to get you and your users the most out of your backstitch topic pages. These add-ons are added to individual topics by navigating to the topic, clicking the 'edit topic' button on the right of the toolbar, and scrolling to the bottom of the editor to the 'Add-Ons' section. Different plans offer different access to add-ons (more info [here]({% post_url 2015-03-04-plans %})).
+Backstitch offers 5 different topic add-ons (as of now) to get you and your users the most out of your backstitch topic pages. These add-ons are added to individual topics by navigating to the topic, clicking the 'edit topic' button on the right of the toolbar, and scrolling to the bottom of the editor to the 'Add-Ons' section. Different plans offer different access to add-ons (more info [here](()).
 
 <div class="full zoomable"><img src="/images/add_ons/add_ons.png"></div>
 

@@ -15,7 +15,7 @@ author:
 
 These premium plans are only available to Backstitch for Business customers. For more information, click [here](http://backstit.ch/business).
 
-Backstitch for Business offers two distinct plans to best suit your business' content needs and budget. Once a plan has been chosen, if your organization's needs change in the future, a new plan can always be selected from the Billing tab in the organization preferences (more info [here]({% post_url 2015-03-04-organization %})).
+Backstitch for Business offers two distinct plans to best suit your business' content needs and budget. Once a plan has been chosen, if your organization's needs change in the future, a new plan can always be selected from the Billing tab in the organization preferences (more info [here]()).
 
 ### Team Plan ($49.99/month) - 
 
@@ -40,4 +40,4 @@ The Business plan is ideal for larger businesses and businesses that wish to lev
 - Access to Share to Wordpress add-on
 
 
-For more information about add-ons, click [here]({% post_url 2015-03-04-add-ons %}). For more information about organizations and what Backstitch for Business can offer, click [here]({% post_url 2015-03-04-organization %}).
+For more information about add-ons, click [here](). For more information about organizations and what Backstitch for Business can offer, click [here]().
