@@ -13,38 +13,76 @@ author:
   image: icon.png
 ---
 
-The account settings page can be accessed by clicking on the gear icon in the upper-right corner of backstitch and then clicking on 'Account Settings' from the context menu that follows. 
+The account settings page can be accessed by *clicking* on the **settings gear** in the upper-right corner of backstitch and then *clicking* on **Account Settings** from the dropdown menu. 
 
 <div class="full zoomable"><img src="/images/account_settings.png"></div>
 
 The account settings page allows you to make a few different changes to your backstitch profile, including:
 
+<a name='Top'></a>
+- [Changing Your Icon](#Icon)
+- [Changing Your Email Address](#Email)
+- [Changing Your Password](#Password)
+- [Recieve Newsletters](#Newsletters)
+- [Open Results with backstitch](#Results)
+- [Authenticated Services](#Services)
+
+--
+
+<a name='Icon'></a>
+
+[Top](#Top)<br />
 ## Changing your icon
 
-Backstitch uses Gravatar for a user icon for you. This icon isn't used in many places, but if you would like to have a specialized icon for yourself, sign up for an account at www.gravatar.com and add an icon for the email you used to sign up with backstitch. 
+backstitch uses Gravatar for a user icon for you. This icon isn't used in many places, but if you would like to have a specialized icon for yourself, sign up for an account at **www.gravatar.com** and add an icon for the email you used to sign up with backstitch. 
 
-## Email address
+--
 
-You can change the email address you use to login and receive emails here. This will be your new login name and the email address that your digests and other emails get sent to, so make sure it's a valid one! 
+<a name='Email'></a>
 
+[Top](#Top)<br />
+## Changing Your Email address
+
+You can change the email address you use to login and receive emails here. To do so, *enter* your new email address in the **Email** text box. This will be your new login name and the email address that your digests and other emails get sent to.
+
+--
+
+<a name='Password'></a>
+
+[Top](#Top)<br />
 ## Changing your password 
 
-To change your password, enter your current password in the 'Existing password' text box and enter your desired new password in the 'New Password' text box. Make sure it's a password that you can remember before clicking 'save changes'! 
+To change your password, *enter* your current password in the **Existing Password** text box and *enter* your desired new password in the **New Password** text box. Make sure it's a password that you can remember before *clicking* **save changes**! 
 
-Also, if you forget your password but are still logged in, you can change your password here by clicking the appropriate prompt to reset your password near the 'Existing Password' box. 
+Also, if you forget your password but are still logged in, you can change your password here by *clicking* the **Reset** button near the **Existing Password** box. 
 
+--
+
+<a name='Newsletters'></a>
+
+[Top](#Top)<br />
 ## Receive Newsletters
 
-Unchecking this box will turn off your personal digests from backstitch. Note that this does not affect organization digests if a team you are associated with sends them out. 
+*Unchecking* the **Recieve Newsletters** checkbox will turn off your personal digests from backstitch. However, this does not affect organization digests if a team you are associated with sends them out. 
 
+--
+
+<a name='Results'></a>
+
+[Top](#Top)<br />
 ## Open Results with backstitch
 
-Turning this option off will make it so that all results you click on within backstitch take you to the original source in a new tab. Turning this on will open your results within backstitch, if that result has been indexed yet (or else you will be brought to the original source). 
+*Unchecking* the **Open Results with backstitch** checkbox will make it so that when you *click* on a result in backstitch it will take you to the original source in a new tab. *Checking* the **Open Results with backstitch** checkbox will open your results within backstitch, if that result has been indexed (or else you will be brought to the original source). 
 
 Note: turning this off will prevent you from using certain features of backstitch (such as sharing results from within backstitch, using the Share to Wordpress add-on, and seeing highlighting showing why this result is displayed in this topic page). 
 
+--
+
+<a name='Services'></a>
+
+[Top](#Top)<br />
 ## Authenticated Services
 
-You can authenticate different social media services here ensure that your topics pages include the best, most varied content available. You can also deactivate services here if you do not want to have those services associated with backstitch anymore. 
+You can authenticate different social media services (such as Facebook, Twtitter, and Instagram) to ensure that your topics pages include the best, most varied content available. You can also deactivate services here if you do not want to have those services associated with backstitch anymore. 
 
 These services will have no barring on your organization pages, which use organization authenticated services rather than your personal ones. 
