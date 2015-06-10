@@ -41,13 +41,13 @@ The following sections are available within the organization dashboard:
 [Top](#Top)<br />
 ## Dashboard
 
-<div class="full zoomable"><img src="/images/organizations/dashboard/organization_dashboard.png"></div>
-
 The dashboard tab has three sections; Authenticated Services, Email Digest, and API Key.
 
 #### Authenticated Services
 
 This is where you can authenticate third party services so your team members will not have to authenticate individual services.
+
+<div class="full zoomable"><img src="/images/organizations/dashboard/authenticated_services.png"></div>
 
 ***Note: backstitch never accesses information from your account; authorization just allows backstitch the authority to retrieve publicly available content on your behalf.***
 
@@ -55,9 +55,13 @@ This is where you can authenticate third party services so your team members wil
 
 The Email Digest section allows you to manage if and when your team members receive a digest of currated content updates. You can choose whether or not to send a digest at all, what days of the week to send it on, and at what time the digest gets sent out.
 
+<div class="full zoomable"><img src="/images/organizations/dashboard/email_digest.png"></div>
+
 #### API Key
 
 If you have access to our developer api this is where you can get the organization API key from.
+
+<div class="full zoomable"><img src="/images/organizations/dashboard/api_key.png"></div>
 
 ***Note: The backstitch API is only available to our Business and Enterprise plans (more info on plans [here]()).***
 
@@ -78,6 +82,17 @@ The team members tab allows you to create, delete, and edit teams within your or
 
 <div class="full zoomable"><img src="/images/organizations/team_members/add_team_dialog.png"></div>
 
+#### Team Settings
+ 
+*Clicking* the **Team Settings** button allows you to update the selected team.
+ 
+<div class="full zoomable"><img src="/images/organizations/team_members/team_settings.png"></div>
+ 
+<div class="full zoomable"><img src="/images/organizations/team_members/team_settings_dialog.png"></div>
+
+- **Team Name**: Change the team name.
+- **delete team**: Deletes the team, none of the team members or topics associated with the team will be deleted.
+
 #### Add Team Members
 
 There are a few ways to adding team members to your organization. 
@@ -90,8 +105,6 @@ There are a few ways to adding team members to your organization.
 
 
 #### Team Member Settings
- 
-Team members have a couple of different organization settings.
  
 <div class="full zoomable"><img src="/images/organizations/team_members/team_member_settings.png"></div>
 
