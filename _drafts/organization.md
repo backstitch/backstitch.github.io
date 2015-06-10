@@ -53,7 +53,7 @@ This is where you can authenticate third party services so your team members wil
 
 #### Email Digest
 
-The Email Digest section allows you to manage if and when your team members receive a digest of currated content updates. You can choose whether or not to send a digest at all, what days of the week to send it on, and at what time the digest gets sent out.
+The Email Digest section allows you to manage if and when your team members receive a digest of currated content updates. Email digests are created dynamically for each team member based on the topics they are subscribed to.
 
 <div class="full zoomable"><img src="/images/organizations/dashboard/email_digest.png"></div>
 
@@ -97,9 +97,9 @@ The team members tab allows you to create, delete, and edit teams within your or
 
 There are a few ways to adding team members to your organization. 
 
-1. Users can be invited directly, by *clicking* on the **+Invite Member** button. <div class="full zoomable"><img src="/images/organizations/team_members/invite_member.png"></div> By typing in an email address and *clicking* **invite** will send an invite email. <div class="full zoomable"><img src="/images/organizations/team_members/invite_member_dialog.png"></div> Following the instructions in that email, the member will then be added to your team.
+1. Team members can be invited directly, by *clicking* on the **+Invite Member** button. <div class="full zoomable"><img src="/images/organizations/team_members/invite_member.png"></div> By typing in an email address and *clicking* **invite** will send an invite email. <div class="full zoomable"><img src="/images/organizations/team_members/invite_member_dialog.png"></div> Following the instructions in that email, the member will then be added to your team.
  
-1. Users that are already a part of the organization can be added to the another team by *clicking* on the team in the left hand column and "clicking" on the **+Add Member** button. <div class="full zoomable"><img src="/images/organizations/team_members/add_member.png"></div> Members can be added to this team by *clicking* the green **+** button to the left of their email or all members can be added to this team by *clicking* the **Add all** button. <div class="full zoomable"><img src="/images/organizations/team_members/add_member_dialog.png"></div>
+1. Team members that are already a part of the organization can be added to the another team by *clicking* on the team in the left hand column and "clicking" on the **+Add Member** button. <div class="full zoomable"><img src="/images/organizations/team_members/add_member.png"></div> Members can be added to this team by *clicking* the green **+** button to the left of their email or all members can be added to this team by *clicking* the **Add all** button. <div class="full zoomable"><img src="/images/organizations/team_members/add_member_dialog.png"></div>
 
 1. You can allow anyone with your email domain to join your backstitch team by *click* the **Allowed Domains** button. <div class="full zoomable"><img src="/images/organizations/team_members/allowed_domains.png"></div> By typing the desired domain into the text box and *click* **add**. <div class="full zoomable"><img src="/images/organizations/team_members/allowed_domains_dialog.png"></div>  Before being added to your organization the team member will be sent a verification email.
 
@@ -112,7 +112,7 @@ There are a few ways to adding team members to your organization.
 - **email**: The team members email address.
 - **organization admin**: Organization admins have the ability to access the organization dashboard.
 - **team admin**: Team admins have the ability to create and edit topics and post to custom sources.
-- **last active**: This is the last time the user logged into backstitch.
+- **last active**: This is the last time the team member logged into backstitch.
 
 --
 
@@ -235,7 +235,7 @@ Brand backstitch with your organization colors by simply *click* one of the disp
 
 - **Default Results Display**: This will set the default result display for all new team members.
 - **Hide What's New Banner**: The What's New Banner can not be upload like topics but it can be hidden. 
-- **Show Walkthrough to New Users**: After a new user has been verified they are taken to any default/auto subscribed topics or the discover topic catalog, this option will send them through a user walkthrough for backstitch.
+- **Show Walkthrough to New Team Members**: After a new team member has been verified they are taken to any default/auto subscribed topics or the discover topic catalog, this option will send them through a walkthrough for backstitch.
 
 After making your changes simply *click* the **save** button.
 
@@ -290,7 +290,7 @@ In the support tab you will find links to our API and widget documentation, as w
 <div class="full zoomable"><img src="/images/organizations/support/documents.png"></div>
 
 
-Organization admins can also submit support tickets with any comments, questions, or concerns. 
+Organization admins can submit support tickets with any comments, questions, or concerns and one of our team members will get back to them. 
 
 <div class="full zoomable"><img src="/images/organizations/support/support_ticket.png"></div>
 
