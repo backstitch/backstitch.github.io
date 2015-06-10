@@ -13,24 +13,23 @@ author:
   image: icon.png
 ---
 
-Organizations are only available to backstitch for Business customers. For more information, *click* [here](http://backstit.ch/business).
+Organizations allow team members to share topics among themselves, keeping everyone up to date with the most current information. For more information click [here](http://backstit.ch/business).
 
-Organizations are made up of teams. Business plan users can create unlimited teams as they see fit, while members of the Team plan are only allowed a single team for their organization (more info on plans [here]()).
+### Organization Dashboard 
 
-### Organization Settings 
+You can access your organization dashboard by *clicking* the **settings gear** in the upper right corner and then *clicking* the name of your organization. 
 
-Once your organization is created, you can access your organization dashboard by *clicking* the **settings gear** in the upper right corner of backstitch and then *clicking* the name of your organization. 
+<div class="full zoomable"><img src="/images/organizations/settings_organization.png"></div>
 
-<div class="full zoomable"><img src="/images/settings_organization.png"></div>
+The organization dashboard allows you to manage your organization, view analytics, submit a support ticket. 
 
-The organization dashboard allows you to manage your organization, view analytics, submit a support ticket, create topics, etc. 
-
-The following sections are available in the organization dashboard: 
+The following sections are available within the organization dashboard: 
 
 <a name='Top'></a>
 - [Dashboard](#Dashboard)
 - [Team Members](#TeamMembers)
 - [Topics](#Topics)
+- [Custom Sources](#CustomSources)
 - [Theme](#Theme)
 - [Billing](#Billing)
 - [Support](#Support)
@@ -42,13 +41,25 @@ The following sections are available in the organization dashboard:
 [Top](#Top)<br />
 ## Dashboard
 
-The dashboard tab is where you can view and manage common organization information and settings. If you have any topics with the API or widget add-on enabled (more info [here]()), you can view how many calls are currently used and what topic is making those requests, using the two sections on the left (**Total API Calls**, and **API Requests**).
+<div class="full zoomable"><img src="/images/organizations/dashboard/organization_dashboard.png"></div>
 
-The right-hand column contains the **Authenticated Services** section, which allows your organization to authorize social media accounts for use in the organization's topic pages. Organizations use organization-wide service authentication so your team-members don't have to authenticate their individual accounts. 
+The dashboard tab has three sections; Authenticated Services, Email Digest, and API Key.
 
-Below **Authenticated Services** is your organization's **API Key**, which is used to make API and widget requests. 
+#### Authenticated Services
 
-The **Email Digest** section allows you to manage if and when your team-members receive a digest of currated content updates. You can choose whether or not to send a digest at all, what days of the week to send it on, and at what time the digest gets sent out.
+This is where you can authenticate third party services so your team members will not have to authenticate individual services.
+
+***Note: backstitch never accesses information from your account; authorization just allows backstitch the authority to retrieve publicly available content on your behalf.***
+
+#### Email Digest
+
+The Email Digest section allows you to manage if and when your team members receive a digest of currated content updates. You can choose whether or not to send a digest at all, what days of the week to send it on, and at what time the digest gets sent out.
+
+#### API Key
+
+If you have access to our developer api this is where you can get the organization API key from.
+
+***Note: The backstitch API is only available to our Business and Enterprise plans (more info on plans [here]()).***
 
 -- 
 
@@ -61,27 +72,34 @@ The team members tab allows you to create, delete, and edit teams within your or
 
 #### Add Team
 
-*Clicking* the **+Add Team** button allows you to create a new team for your organization. Different teams can have different topic pages and admins, but are limited by your plan (more info on plans [here]()).
+*Clicking* the **+Add Team** button allows you to create a new team for your organization. Different teams can have different topic pages and admins.
 
-<div class="full zoomable"><img src="/images/add_team.png"></div>
+<div class="full zoomable"><img src="/images/organizations/team_members/add_team.png"></div>
+
+<div class="full zoomable"><img src="/images/organizations/team_members/add_team_dialog.png"></div>
 
 #### Add Team Members
 
-There are a few methods for adding team members to your organization and their respective teams. 
+There are a few ways to adding team members to your organization. 
 
-- Users can be invited directly, by *clicking* on the **+Invite Member** button. By typing in an email address and *clicking* **invite**, that user will then be sent an invite email. By following the instructions in that email, that user will then be added to your team.
-
-  <div class="full zoomable"><img src="/images/invite_member.png"></div>
-
-- Users that are already a part of the organization can be added to the currently selected team by *clicking* on the **+Add Member** button. You can then add individual members to this team by *clicking* the green **+** button to the left of their email or you can choose to add all of the members of your organizaton to this team by *clicking* the **Add all** button.
-
-  <div class="full zoomable"><img src="/images/add_member.png"></div>
-
-- You can also set your company's email domain as an Allowed Domain. Anyone that signs up for backstitch with this particular email domain will automatically be sent an invite email to join your team. To do this, simply *click* the **Allowed Domains** button, *type* the desired domain into the text box, *click* **add**, and then *click* **Done** 
-
-  <div class="full zoomable"><img src="/images/allowed_domains.png"></div>
-  
+1. Users can be invited directly, by *clicking* on the **+Invite Member** button. <div class="full zoomable"><img src="/images/organizations/team_members/invite_member.png"></div> By typing in an email address and *clicking* **invite** will send an invite email. <div class="full zoomable"><img src="/images/organizations/team_members/invite_member_dialog.png"></div> Following the instructions in that email, the member will then be added to your team.
  
+1. Users that are already a part of the organization can be added to the another team by *clicking* on the team in the left hand column and "clicking" on the **+Add Member** button. <div class="full zoomable"><img src="/images/organizations/team_members/add_member.png"></div> Members can be added to this team by *clicking* the green **+** button to the left of their email or all members can be added to this team by *clicking* the **Add all** button. <div class="full zoomable"><img src="/images/organizations/team_members/add_member_dialog.png"></div>
+
+1. You can allow anyone with your email domain to join your backstitch team by *click* the **Allowed Domains** button. <div class="full zoomable"><img src="/images/organizations/team_members/allowed_domains.png"></div> By typing the desired domain into the text box and *click* **add**. <div class="full zoomable"><img src="/images/organizations/team_members/allowed_domains_dialog.png"></div>  Before being added to your organization the team member will be sent a verification email.
+
+
+#### Team Member Settings
+ 
+Team members have a couple of different organization settings.
+ 
+<div class="full zoomable"><img src="/images/organizations/team_members/team_member_settings.png"></div>
+
+- **X**: Remove the team member from the team.
+- **email**: The team members email address.
+- **organization admin**: Organization admins have the ability to access the organization dashboard.
+- **team admin**: Team admins have the ability to create and edit topics and post to custom sources.
+- **last active**: This is the last time the user logged into backstitch.
 
 --
 
@@ -90,18 +108,82 @@ There are a few methods for adding team members to your organization and their r
 [Top](#Top)<br />
 ## Topics
 
-The topics tab allows you to create, edit, and delete your organization's topics. You can create topics for your entire organization or for specific teams within your organization. These topics are limited by your plan (more info on that [here]()).
+#### Add Team Topics
 
-You can create a new topic for a given team by *clicking* the **+Create Topic** button. You can also create a topic for a team by *clicking* the large **+** button located on the navigation bar, *clicking* **Create A New Topic** and then selecting your team from the dropdown.
+The topics tab allows you to create, edit, and delete your organization's topics. You can create topics for your entire organization or for specific teams within your organization.
 
-There are a couple of different options for your topics when they are apart of a team. 
+There are a few ways to create topics for your organization.
 
-<div class="full zoomable"><img src="/images/team_topic.png"></div>
+1. You can create a new topic by *clicking* the **+Create Topic** button. <div class="full zoomable"><img src="/images/organizations/topics/create_team_topic.png"></div>
 
-- *Clicking* **YES** under **Auto follow** will automatically subscribe all new team members to this topic, adding it to their list of subscribed topics. 
-- *Clicking* **YES** under **Allow unfollow** will allow your team members to unfollow the topic, thereby not seeing any of the results from the topic anymore. By choosing **NO**, team members will not be given the option to unfollow the topic.
-- *Clicking* the **yellow star** in the upper-left corner will set this topic as the team's default topic. When team members log into backstitch they will be greeted with your default topic (note: only one default topic can be selected at a time). 
-- *Clicking* the **X** in the upper right corner will give you the option to remove the topic from the team (but will still be accessible by you), or to delete the topic forever (this cannot be undone). 
+1. By *clicking* the large **+** button located on the navigation bar, then *clicking* **Create A New Topic** and selecting your team from the dropdown. <div class="full zoomable"><img src="/images/organizations/topics/new_team_topic.png"></div>
+
+1. You can also add a topic from another team or a personal topic by *clicking* the **+Add Topic** button. <div class="full zoomable"><img src="/images/organizations/topics/add_team_topic.png"></div> Then *clicking* the green **+add** button will add the topic to the team. <div class="full zoomable"><img src="/images/organizations/topics/add_team_topic_dialog.png"></div>
+
+***Note: You must be a team admin to add topics to a team.***
+
+#### Team Topic Settings
+
+<div class="full zoomable"><img src="/images/organizations/topics/team_topic.png"></div>
+
+- **Yellow star**: Set this topic as the team's default topic. When team members log into backstitch they will be greeted with your default topic (note: only one default topic can be selected at a time)
+- **Red X**: Give you the option to remove the topic from the team (but will still be accessible by you), or to delete the topic forever (this cannot be undone). 
+- **Auto follow**: Automatically subscribes all team members to this topic. 
+- **Allow unfollow**: Will allow your team members to unfollow the topic or force your team member to follow the topic.
+
+--
+
+<a name='CustomSources'></a>
+
+[Top](#Top)<br />
+## Custom Sources
+
+Custom sources allow team admins to add content directly into backstitch.  These sources can be added to topics and filtered like any third party source.  To learn more about sources **[check out this article]({% post_url 2015-05-19-sources %})**.
+
+#### Create Source
+
+*Clicking* the **+Create Source** button allows you to create a new source to the organization.
+
+<div class="full zoomable"><img src="/images/organizations/custom_sources/create_source.png"></div>
+
+<div class="full zoomable"><img src="/images/organizations/custom_sources/create_source_dialog.png"></div>
+
+- **Name**: This is the name of the source.
+- **Description**: Give a description of what the source should be used for. 
+- **Allow public sharing**: This will allow team members to share post to the custom source to social media and via email. 
+- **Promote to the top**: Promoting posts from a custom source to the top of any topic for a designated number of days.
+
+#### Create Post
+
+There are two ways to add a new post to a source.
+
+1. *Clicking* the **+Create Post**. <div class="full zoomable"><img src="/images/organizations/custom_sources/create_post.png"></div>
+
+1. By *clicking* the large **+** button located on the navigation bar, then *clicking* **Add A New Post**. <div class="full zoomable"><img src="/images/organizations/custom_sources/create_post_menu.png"></div>
+
+There are three types of post that can be created.
+
+<div class="full zoomable"><img src="/images/organizations/custom_sources/create_post_dialog.png"></div>
+
+#### link
+
+If you find an interesting link you would like to share with rest our you team backstitch can bring this in.
+
+<div class="full zoomable"><img src="/images/organizations/custom_sources/link_post.png"></div>
+
+#### image
+
+Uploading an image is just as easy.
+
+<div class="full zoomable"><img src="/images/organizations/custom_sources/image_post.png"></div>
+
+#### text
+
+Writing full blog post inside backstitch is made simple with our built in text editor.
+
+<div class="full zoomable"><img src="/images/organizations/custom_sources/text_post.png"></div>
+
+***Note: Custom sources are only available to our Business and Enterprise plans (more info on plans [here]()).***
 
 --
 
@@ -110,25 +192,39 @@ There are a couple of different options for your topics when they are apart of a
 [Top](#Top)<br />
 ## Theme
 
-The theme tab allows you to change your organization's name, logo, and color scheme (available only to Business plan subscribers, more info [here]()).
+The theme tab allows you to change your organization's settings.
 
 #### Name
 
 You can change your organization's name at any time. Just *type* the new name into the text box and *click* **save**. 
 
-<div class="full zoomable"><img src="/images/org_name.png"></div>
+<div class="full zoomable"><img src="/images/organizations/theme/org_name.png"></div>
 
 #### Change Logo
 
-Business plan members can upload an image of their organization's logo here. Simply *click* the **choose logo** button, *locate* the appropriate image file on your computer, and then *click* **save**. This logo will replace the backstitch logo in the upper-left corner of backstitch for your team members and will also serve as the heading of your organization's digest emails. 
+Simply *click* the **choose logo** button, *locate* the appropriate image file on your computer, and then *click* **save**. This logo will replace the backstitch logo in the upper-left corner of backstitch for your team members and will also serve as the heading of your organization's digest emails. 
 
-<div class="full zoomable"><img src="/images/org_logo.png"></div>
+<div class="full zoomable"><img src="/images/organizations/theme/org_logo.png"></div>
+
+***Note: Changing your logo is only available to our Business and Enterprise plans (more info on plans [here]()).***
 
 #### Change Color
 
-Business plan members can choose their color to re-brand backstitch with. Simply *click* one of the displayed colors or *type* a hex value into the text box and *click* **save**. This will change the top navigation bar to your organization's branding color, as well as other accents throughout backstitch. 
+Brand backstitch with your organization colors by simply *click* one of the displayed colors or *type* a hex value into the text box and *click* **save**. This will change the top navigation bar as well as other accents throughout backstitch. 
 
-<div class="full zoomable"><img src="/images/org_color.png"></div>
+<div class="full zoomable"><img src="/images/organizations/theme/org_color.png"></div>
+
+***Note: Changing your color is only available to our Business and Enterprise plans (more info on plans [here]()).***
+
+#### Display Options
+
+<div class="full zoomable"><img src="/images/organizations/theme/display_options.png"></div>
+
+- **Default Results Display**: This will set the default result display for all new team members.
+- **Hide What's New Banner**: The What's New Banner can not be upload like topics but it can be hidden. 
+- **Show Walkthrough to New Users**: After a new user has been verified they are taken to any default/auto subscribed topics or the discover topic catalog, this option will send them through a user walkthrough for backstitch.
+
+After making your changes simply *click* the **save** button.
 
 --
 
@@ -137,7 +233,37 @@ Business plan members can choose their color to re-brand backstitch with. Simply
 [Top](#Top)<br />
 ## Billing
 
-The billing section is where you can change your backstitch for business plan, view your invoices, and view usage statistics for your organization's topic, user and API. You can also add and remove a payment method for your organization's backstitch for business plan.
+#### Update Credit Card
+
+You can update your credit card by simply *clicking* the **Update Credit Card** button.
+
+<div class="full zoomable"><img src="/images/organizations/billing/update_credit_card.png"></div>
+
+<div class="full zoomable"><img src="/images/organizations/billing/update_credit_card_dialog.png"></div>
+
+#### Update Credit Card
+
+backstitch makes it easy to upgrade and downgrade between our plans (get more info on plans [here]()) simply *clicking* the **Update Plan** button.  You can also cancel your backstitch plan from this screen.
+
+<div class="full zoomable"><img src="/images/organizations/billing/update_plan.png"></div>
+
+<div class="full zoomable"><img src="/images/organizations/billing/update_plan_dialog.png"></div>
+
+#### Invoices
+
+You can view your past invoices by *clicking* on the invoice.
+
+<div class="full zoomable"><img src="/images/organizations/billing/invoice.png"></div>
+
+<div class="full zoomable"><img src="/images/organizations/billing/invoice_dialog.png"></div>
+
+#### Current Usage
+
+Keeping track of what limits you have reach are easy form this screen.
+
+- **Team Members**: The Number of unique team members that are part of you organization.  <div class="full zoomable"><img src="/images/organizations/billing/team_members.png"></div>
+- **API & Widget**: How many API and Widget calls you have used in the current billing period.  <div class="full zoomable"><img src="/images/organizations/billing/api_and_widget.png"></div>
+- **Topics**: The number of unique topics the organization owns.  <div class="full zoomable"><img src="/images/organizations/billing/topics.png"></div>
 
 --
 
@@ -146,7 +272,14 @@ The billing section is where you can change your backstitch for business plan, v
 [Top](#Top)<br />
 ## Support
 
-In the support tab you will find links to our API and widget documentation, as well as links back to this help document for future reference. Organization administrators can also submit support tickets with any comments, questions, or concerns regarding anything with backstitch, their organization, or anything else. 
+In the support tab you will find links to our API and widget documentation, as well as links back to this help document for future reference. 
+
+<div class="full zoomable"><img src="/images/organizations/support/documents.png"></div>
+
+
+Organization admins can also submit support tickets with any comments, questions, or concerns. 
+
+<div class="full zoomable"><img src="/images/organizations/support/support_ticket.png"></div>
 
 [Top](#Top)<br />
 
