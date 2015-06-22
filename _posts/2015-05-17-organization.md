@@ -3,7 +3,7 @@ layout: post
 
 title: Organizations
 
-excerpt: "Organizations give teams the ability to organize and share topics as well as unlock addditional backstitch customization and features."
+excerpt: "Organizations give teams the ability to organize and share topics as well as unlock additional backstitch customization and features."
 
 author:
   name: backstitch
@@ -78,7 +78,7 @@ For more information about the developer API be sure to reference the **<a href=
 [Top](#Top)<br />
 ## Team Members
 
-Invite other people to join your organization, seperate them into teams, and even monitor how active everyone is.
+Invite other people to join your organization, separate them into teams, and even monitor how active everyone is.
 
 Every organization has a special team called *Organization Name*(all) that every team member is a part of an cannot be deleted.
 
@@ -107,7 +107,7 @@ There are a several ways that you can invite and add team members to your organi
 
 1. **Invite by Email** - team members can be invited directly via email by *clicking* on the **+Invite Member** button. <div class="full zoomable"><img src="/images/organizations/team_members/invite_member.png"></div> *typing* in their email address and *clicking* **invite**. <div class="full zoomable"><img src="/images/organizations/team_members/invite_member_dialog.png"></div> This will send them an invitation email along with instructions to join backstitch and the team you've invited them to.
 
-1. **Allowed Domains** - you can automatically give access to your organization to anyone that posseses a valid email address at specified domain.  To add an allowed domain *click* the **Allowed Domains** button. <div class="full zoomable"><img src="/images/organizations/team_members/allowed_domains.png"></div> and **type** each allowed domain into the text box and *click* **add**. <div class="full zoomable"><img src="/images/organizations/team_members/allowed_domains_dialog.png"></div>  Before being added to your organization the team member will be sent an email to verify that they do in fact own that email address.
+1. **Allowed Domains** - you can automatically give access to your organization to anyone that posesses a valid email address at specified domain.  To add an allowed domain *click* the **Allowed Domains** button. <div class="full zoomable"><img src="/images/organizations/team_members/allowed_domains.png"></div> and **type** each allowed domain into the text box and *click* **add**. <div class="full zoomable"><img src="/images/organizations/team_members/allowed_domains_dialog.png"></div>  Before being added to your organization the team member will be sent an email to verify that they do in fact own that email address.
 
 1. **Adding from another team**: Team members that are already a part of the organization can be added to another team by *clicking* on the team in the left hand column and *selecting*  the **+Add Member** button. <div class="full zoomable"><img src="/images/organizations/team_members/add_member.png"></div> Members can be added to this team by *clicking* the green **+** button to the left of their email.  Optionally all members can be added to this team by *clicking* the **Add all** button. <div class="full zoomable"><img src="/images/organizations/team_members/add_member_dialog.png"></div>
 
@@ -151,7 +151,7 @@ There are a few ways to share topics within your organization.
 
 - **Primary Topic (yellow star)**: set this topic as the team's default topic. When team members log into backstitch they will be greeted with the default topic rather than their "What's New" topic. (note: only one default topic can be selected per team)
 - **Remove Topic (red X)**: allows you to either remove the topic from the team (and still be accessible by you) or to delete the topic forever (this cannot be undone). 
-- **Auto follow**: causes all mmembers of this team to automatically follow this topic. 
+- **Auto follow**: causes all members of this team to automatically follow this topic. 
 - **Allow unfollow**: determines if members of this team area allowed to unfollow this topic or not.
 
 --
@@ -184,7 +184,7 @@ Custom sources allow team admins to post content directly into backstitch.  Thes
 
 There are two ways to add a new post to a source.
 
-1.  **From the organization dashboard**: create a new post by *clicking* the **+Create Post** button from the custom sources section of the organization dahsboard. <div class="full zoomable"><img src="/images/organizations/custom_sources/create_post.png"></div>
+1.  **From the organization dashboard**: create a new post by *clicking* the **+Create Post** button from the custom sources section of the organization dashboard. <div class="full zoomable"><img src="/images/organizations/custom_sources/create_post.png"></div>
 
 1. **From the navigation bar**: create a new post by *clicking* the large **+** button on the navigation bar, then *clicking* **Add A New Post** and selecting the custom source to post to. <div class="full zoomable"><img src="/images/organizations/custom_sources/create_post_menu.png"></div>
 
@@ -206,7 +206,7 @@ Upload an image into your custom source as a photo.
 
 #### text
 
-Author an original post and make it availble in your custom source as an article.
+Author an original post and make it available in your custom source as an article.
 
 <div class="full zoomable"><img src="/images/organizations/custom_sources/text_post.png"></div>
 

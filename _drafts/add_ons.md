@@ -15,7 +15,7 @@ author:
 
 Plugins are only available to backstitch for Business customers. For more information, click [here](http://backstit.ch/business).
 
-backstitch currently offers 5 different topic plugins to get you and your users the most out of your backstitch topic pages. These plugins live at the bottom of the topic editor. To lcoate them navigate to one of your topics, *click* the **edit topic** button on the right of the toolbar, and scroll to the bottom of the editor to the **Plugins** section. Different plans offer different access to plugins (more info [here](()). *Clicking* the **Explore** button will open a window with all of your available plugins.
+backstitch currently offers 5 different topic plugins to get you and your users the most out of your backstitch topic pages. These plugins live at the bottom of the topic editor. To locate them navigate to one of your topics, *click* the **edit topic** button on the right of the toolbar, and scroll to the bottom of the editor to the **Plugins** section. Different plans offer different access to plugins (more info [here](()). *Clicking* the **Explore** button will open a window with all of your available plugins.
 
 <div class="full zoomable"><img src="/images/plugins/explore_plugins.png"></div>
 
@@ -37,7 +37,7 @@ The 5 different add-ons are:
 
 *Available to team and business subscribers*
 
-The API plugin gives you API access to the given topic page. This allows you to utilize the currated results of your topic page in any way that you want. You can activate the API plugin by *clicking* on the **API** plugin in the available plugins window. 
+The API plugin gives you API access to the given topic page. This allows you to utilize the curated results of your topic page in any way that you want. You can activate the API plugin by *clicking* on the **API** plugin in the available plugins window. 
 
 <div class="full zoomable"><img src="/images/plugins/api_plugin_0.png"></div>
 
@@ -83,7 +83,7 @@ You can exit presentation mode by *clicking* the **collapse** button in the uppe
 
 The backstitch widget allows you to embed your topic page content on your blog, company website, or anywhere else HTML is embeddable. It is a very simple, lightweight bit of code that can just be copied and pasted anywhere, without any further customization necessary.
 
-You can activate the Widget plugin by *clicking* on the **Widget** plugin in the availabe plugins window.
+You can activate the Widget plugin by *clicking* on the **Widget** plugin in the available plugins window.
 
 <div class="full zoomable"><img src="/images/plugins/widget_plugin_0.png"></div>
 
