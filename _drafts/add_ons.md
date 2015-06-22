@@ -19,7 +19,7 @@ backstitch currently offers 5 different topic plugins to get you and your users 
 
 <div class="full zoomable"><img src="/images/plugins/explore_plugins.png"></div>
 
-The 5 different add-ons are:
+The 5 different plugins are:
 
 <a name='Top'></a>
 - [API](#API)
@@ -54,7 +54,7 @@ You can make calls within your own application to endpoints described in the [AP
 
 *Available to business subscribers only*
 
-Presentation Mode allows your topic page to be viewed in a real-time, cascading display that is perfect for social media walls, office displays, events, etc. Results will be displayed in a grid-style view with full image visibility and new results automatically updated. In addition, the navigation bar, banner and toolbar will all be removed in order to focus on the content being displayed. 
+Presentation Mode allows your topic page to be viewed in a real-time, cascading display that is perfect for social media walls, office displays, events, etc. Results will be displayed in a grid-style view with full image visibility and automatically updated results. In addition, the navigation bar, banner and toolbar will all be removed in order to focus on the content being displayed. 
 
 To activate the Presentation Mode plugin *click* the **Presentation Mode** plugin in the available plugins window.
 
@@ -81,7 +81,7 @@ You can exit presentation mode by *clicking* the **collapse** button in the uppe
 
 *Available to team and business subscribers*
 
-The backstitch widget allows you to embed your topic page content on your blog, company website, or anywhere else HTML is embeddable. It is a very simple, lightweight bit of code that can just be copied and pasted anywhere, without any further customization necessary.
+The backstitch widget allows you to embed your topic page content on your blog, website, or anywhere else HTML is embeddable. It is a very simple, lightweight bit of code that can just be copied and pasted anywhere, without any further customization necessary.
 
 You can activate the Widget plugin by *clicking* on the **Widget** plugin in the available plugins window.
 
@@ -102,13 +102,13 @@ For more information about the backstitch widget, visit our [API & Widget docume
 
 *Available to business subscribers only*
 
-The Wordpress publishing plugin allows you to do all of your content marketing and Wordpress blogging, directly inside backstitch. By enabling this plugin and authorizing your backstitch account with your Wordpress blog, you can easily start a blog post, based on results you've found on backstitch, to all of your users without ever having to leave your topic page. 
+The Wordpress publishing plugin allows you to do all of your content marketing and Wordpress blogging, directly inside backstitch. By enabling this plugin and authorizing your backstitch account with your Wordpress blog, you can easily create a blog post based on results you've found on backstitch. 
 
 You can activate this plugin by *clicking* on the **Wordpress publishing** plugin located in the Available Plugins window. This will then direct you to authorize your blog with backstitch.
 
 <div class="full zoomable"><img src="/images/plugins/wordpress_plugin_0.png"></div>
 
-Once activated and authorized, you can create a blog post from within backstitch by *clicking* on a result that you want to share and then *clicking* on the **Wordpress Logo** on the action bar on the right.
+Once activated and authorized, you can create a blog post from within backstitch by *clicking* on a result that you want to share and then *clicking* on the **Wordpress Logo** located on the action bar on the right.
 
 <div class="full zoomable"><img src="/images/plugins/wordpress_plugin_1.png"></div>
 
@@ -121,19 +121,19 @@ Once activated and authorized, you can create a blog post from within backstitch
 [Top](#Top)<br />
 ## Directory
 
-The Directory plugin allows you to create a directory of links and contacts to appear either as the first result card on your topic page or as the banner of your topic. This directory can contain links that are important to your business or contacts that are imperative for your customers or team members. 
+The Directory plugin allows you to create a directory of links and contacts to appear either as the first result card on or as the banner of your topic. This directory can contain links that are important to your business or contacts that are imperative for your customers or team members. 
 
 You can add this plugin by *clicking* the **Directory** plugin located in the Available Plugins window. 
 
 <div class="full zoomable"><img src="/images/plugins/directory_plugin_0.png"></div>
 
-This will bring you to the Directory plugin manager, where you can add and remove links and style the directory however you see fit. 
+This will bring you to the Directory plugin manager, where you can add and remove links and style the directory to meet your needs. 
 
-The **Links** tab allows you to add and remove any links that appear in your directory. It's very simple, just give your link a display name and either a URL or a phone number.
+The **Links** tab allows you to add and remove links in your directory. It's very simple, just give your link a display name and a URL or phone number.
 
 <div class="full zoomable"><img src="/images/plugins/directory_plugin_1.png"></div>
 
-The **Theme** tab allows you to customize the appearance of your directory. You can give it a name, choose whether it appears as a result card or in the top banner, choose the link color and font-family, and choose the background (whether it's a color or a background image, which you can upload).
+The **Theme** tab allows you to customize the appearance of your directory. You can give it a name, choose whether it appears as a result card or in the banner, choose the link color and font-family, and choose the background (whether it's a color or an uploaded image).
 
 <div class="full zoomable"><img src="/images/plugins/directory_plugin_2.png"></div>
 
