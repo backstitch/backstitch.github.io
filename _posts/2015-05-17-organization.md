@@ -16,7 +16,7 @@ author:
 Organizations give teams the ability to organize and share  **[topics]({% post_url 2015-05-19-topics %})** as well as unlock addditional backstitch customization and features.
 
 <div class="note">
-  Organizations are available with the "backstitch for Teams" and "backstitch for Business" plans.  Sign-up for an absolutely <a href="http://backstit.ch/pricing" target="_blank">free 14-day trial</a>.
+  Organizations are available with the "backstitch for Teams" and "backstitch for Business" plans.  Sign-up for a <a href="http://backstit.ch/pricing" target="_blank">free 14-day trial</a>.
 </div>
 
 ### Organization Dashboard 
@@ -80,11 +80,11 @@ For more information about the developer API be sure to reference the **<a href=
 
 Invite other people to join your organization, separate them into teams, and even monitor how active everyone is.
 
-Every organization has a special team called *Organization Name*(all) that every team member is a part of an cannot be deleted.
+Every organization has a special team called *Organization Name*(all) that every team member is a part of and cannot be deleted.
 
 #### Add Team
 
-*Clicking* the **+Add Team** button lets you to create a new team for your organization.  People can be a part of multiple teams and team can be given access to their own topics and have their own administrators.
+*Clicking* the **+Add Team** button lets you to create a new team for your organization.  People can be a part of multiple teams and teams can be given access to their own topics and have their own administrators.
 
 <div class="full zoomable"><img src="/images/organizations/team_members/add_team.png"></div>
 
@@ -142,7 +142,7 @@ There are a few ways to share topics within your organization.
 1. **Share an existing topic**: you can also share a topic from another team or one of your  personal topics by *clicking* the **+Add Topic** button. <div class="full zoomable"><img src="/images/organizations/topics/add_team_topic.png"></div> Then *clicking* the green **+add** button will add the topic to the team. <div class="full zoomable"><img src="/images/organizations/topics/add_team_topic_dialog.png"></div>
 
 <div class="note">
-  Note: You must be a team or organization admin to add topics to a team.
+  Note: You must be a team admin to add topics to a team.
 </div>
 
 #### Team Topic Settings
@@ -184,9 +184,9 @@ Custom sources allow team admins to post content directly into backstitch.  Thes
 
 There are two ways to add a new post to a source.
 
-1.  **From the organization dashboard**: create a new post by *clicking* the **+Create Post** button from the custom sources section of the organization dashboard. <div class="full zoomable"><img src="/images/organizations/custom_sources/create_post.png"></div>
+1.  **From the organization dashboard**: create a new post by *clicking* the **+New Post** button from the custom sources section of the organization dashboard. <div class="full zoomable"><img src="/images/organizations/custom_sources/create_post.png"></div>
 
-1. **From the navigation bar**: create a new post by *clicking* the large **+** button on the navigation bar, then *clicking* **Add A New Post** and selecting the custom source to post to. <div class="full zoomable"><img src="/images/organizations/custom_sources/create_post_menu.png"></div>
+1. **From the navigation bar**: create a new post by *clicking* the large **+** button on the navigation bar, then *clicking* **Add a new post** and selecting the custom source to post to. <div class="full zoomable"><img src="/images/organizations/custom_sources/create_post_menu.png"></div>
 
 There are **three** types of posts that can be created.
 
@@ -221,7 +221,7 @@ Author an original post and make it available in your custom source as an articl
 [Top](#Top)<br />
 ## Theme
 
-Organizations offer the ability to customize the look and feel of backstitch for your team members.
+Organizations have the ability to customize the look and feel of backstitch for your team members.
 
 <div class="note">
   Note: Some theme options are only available to backstitch for Business and Enterprise plans <a href="http://backstit.ch/pricing" target="_blank">more info</a>
