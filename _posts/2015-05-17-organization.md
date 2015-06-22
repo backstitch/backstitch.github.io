@@ -164,7 +164,7 @@ There are a few ways to share topics within your organization.
 Custom sources allow team admins to post content directly into backstitch.  These sources can be added to topics and filtered like any third-party source.  
 
 <div class="note">
-  To learn more about sources **[check out this article]({% post_url 2015-05-19-sources %})**.
+  To learn more about sources <b><a href="http://localhost:4000/2015/05/19/sources/">check out this article</a></b>.
 </div>
 
 #### Create Source
@@ -276,7 +276,7 @@ You can update your credit card by simply *clicking* the **Update Credit Card** 
 
 #### Update Credit Card
 
-backstitch makes it easy to upgrade and downgrade between our plans (get more info on plans [here]()) simply *clicking* the **Update Plan** button.  You can also cancel your backstitch plan from this screen.
+You can upgrade your plan at anytime (more information on the <a href="http://backstit.ch/pricing" target="_blank">plans here</a>) by simply *clicking* the **Update Plan** button.  You can also cancel your backstitch plan from this screen.
 
 <div class="full zoomable"><img src="/images/organizations/billing/update_plan.png"></div>
 
@@ -284,7 +284,7 @@ backstitch makes it easy to upgrade and downgrade between our plans (get more in
 
 #### Invoices
 
-You can view your past invoices by *clicking* on the invoice.
+Your past invoices can be reviewed by *clicking* on an invoice.
 
 <div class="full zoomable"><img src="/images/organizations/billing/invoice.png"></div>
 
@@ -292,9 +292,9 @@ You can view your past invoices by *clicking* on the invoice.
 
 #### Current Usage
 
-Keeping track of what limits you have reach are easy form this screen.
+Your organization's backstitch usage is shown this screen.
 
-- **Team Members**: The Number of unique team members that are part of you organization.  <div class="full zoomable"><img src="/images/organizations/billing/team_members.png"></div>
+- **Team Members**: The number of unique team members that are part of you organization.  <div class="full zoomable"><img src="/images/organizations/billing/team_members.png"></div>
 - **API & Widget**: How many API and Widget calls you have used in the current billing period.  <div class="full zoomable"><img src="/images/organizations/billing/api_and_widget.png"></div>
 - **Topics**: The number of unique topics the organization owns.  <div class="full zoomable"><img src="/images/organizations/billing/topics.png"></div>
 
@@ -305,10 +305,9 @@ Keeping track of what limits you have reach are easy form this screen.
 [Top](#Top)<br />
 ## Support
 
-In the support tab you will find links to our API and widget documentation, as well as links back to this help document for future reference. 
+In the support tab you will find links to our API and Widget documentation as well as links back to this help document for future reference. 
 
 <div class="full zoomable"><img src="/images/organizations/support/documents.png"></div>
-
 
 Organization admins can submit support tickets with any comments, questions, or concerns and one of our team members will get back to them. 
 
