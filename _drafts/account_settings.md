@@ -34,7 +34,7 @@ The account settings page allows you to make a few different changes to your bac
 [Top](#Top)<br />
 ## Changing your icon
 
-backstitch uses Gravatar for a user icon for you. This icon isn't used in many places, but if you would like to have a specialized icon for yourself, sign up for an account at **www.gravatar.com** and add an icon for the email you used to sign up with backstitch. 
+backstitch uses Gravatar for a user icon for you. This icon isn't required, but if you would like to have a specialized icon for yourself, sign up for an account at **www.gravatar.com** and add an icon for the email you used to sign up with backstitch. 
 
 --
 
@@ -43,7 +43,7 @@ backstitch uses Gravatar for a user icon for you. This icon isn't used in many p
 [Top](#Top)<br />
 ## Changing Your Email address
 
-You can change the email address you use to login and receive emails here. To do so, *enter* your new email address in the **Email** text box. This will be your new login name and the email address that your digests and other emails get sent to.
+You can change the email address you use to login and receive emails. To do so, *enter* your new email address in the **Email** text box. This will be your new login name and the email address that your digests and other emails get sent to.
 
 --
 
@@ -54,7 +54,7 @@ You can change the email address you use to login and receive emails here. To do
 
 To change your password, *enter* your current password in the **Existing Password** text box and *enter* your desired new password in the **New Password** text box. Make sure it's a password that you can remember before *clicking* **save changes**! 
 
-Also, if you forget your password but are still logged in, you can change your password here by *clicking* the **Reset** button near the **Existing Password** box. 
+If you forget your password but are still logged in, you can change your password by *clicking* the **Reset** button near the **Existing Password** box. 
 
 --
 
@@ -72,9 +72,9 @@ Also, if you forget your password but are still logged in, you can change your p
 [Top](#Top)<br />
 ## Open Results with backstitch
 
-*Unchecking* the **Open Results with backstitch** checkbox will make it so that when you *click* on a result in backstitch it will take you to the original source in a new tab. *Checking* the **Open Results with backstitch** checkbox will open your results within backstitch, if that result has been indexed (or else you will be brought to the original source). 
+*Unchecking* the **Open Results with backstitch** checkbox will no longer open results inside of backstitch, instead when you *click* on a result it will take you to the original source in a new tab. *Checking* the **Open Results with backstitch** checkbox will open your results within backstitch, if that result has been indexed (or else you will be brought to the original source). 
 
-Note: turning this off will prevent you from using certain features of backstitch (such as sharing results from within backstitch, using the Share to Wordpress add-on, and seeing highlighting showing why this result is displayed in this topic page). 
+Note: turning this off will prevent you from using certain features of backstitch (such as sharing results from within backstitch, using the Share to Wordpress plugin, and seeing highlighting indicating why this result is displayed in this topic). 
 
 --
 
@@ -83,6 +83,6 @@ Note: turning this off will prevent you from using certain features of backstitc
 [Top](#Top)<br />
 ## Authenticated Services
 
-You can authenticate different social media services (such as Facebook, Twtitter, and Instagram) to ensure that your topics pages include the best, most varied content available. You can also deactivate services here if you do not want to have those services associated with backstitch anymore. 
+You can authenticate different social media services (such as Facebook, Twitter, and Instagram) to ensure that your topics can include content from these sources. You can also deactivate services here if you do not want to have those services associated with backstitch anymore. 
 
 These services will have no barring on your organization pages, which use organization authenticated services rather than your personal ones. 
