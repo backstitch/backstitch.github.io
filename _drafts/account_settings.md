@@ -13,17 +13,20 @@ author:
   image: icon.png
 ---
 
-The account settings page can be accessed by *clicking* on the **settings gear** in the upper-right corner of backstitch and then *clicking* on **Account Settings** from the dropdown menu. 
+The account settings page can be accessed by *clicking* on the **settings gear** in the upper-right corner of backstitch and *clicking* on **Account Settings** from the drop down menu. 
 
-<div class="full zoomable"><img src="/images/account_settings.png"></div>
+<div class="full zoomable"><img src="/images/account_settings/account_settings.png"></div>
 
-The account settings page allows you to make a few different changes to your backstitch profile, including:
+You can make the following changes your backstitch profile:
 
 <a name='Top'></a>
-- [Changing Your Icon](#Icon)
-- [Changing Your Email Address](#Email)
-- [Changing Your Password](#Password)
-- [Recieve Newsletters](#Newsletters)
+- [Icon](#Icon)
+- [Email Address](#Email)
+- [Display Name](#DisplayName)
+- [Timezone](#Timezone)
+- [Password](#Password)
+- [Receive Newsletters](#Newsletters)
+- [Digest Frequency](#Digest)
 - [Open Results with backstitch](#Results)
 - [Authenticated Services](#Services)
 
@@ -32,29 +35,57 @@ The account settings page allows you to make a few different changes to your bac
 <a name='Icon'></a>
 
 [Top](#Top)<br />
-## Changing your icon
+## Icon
 
-backstitch uses Gravatar for a user icon for you. This icon isn't required, but if you would like to have a specialized icon for yourself, sign up for an account at **www.gravatar.com** and add an icon for the email you used to sign up with backstitch. 
+backstitch uses Gravatar to store our user icons. To change your icon *click* the icon and create an account at **www.gravatar.com** and add an icon for the email you used to sign up with backstitch. 
+
+<div class="full zoomable"><img src="/images/account_settings/icon.png"></div>
 
 --
 
 <a name='Email'></a>
 
 [Top](#Top)<br />
-## Changing Your Email address
+## Email Address
 
-You can change the email address you use to login and receive emails. To do so, *enter* your new email address in the **Email** text box. This will be your new login name and the email address that your digests and other emails get sent to.
+You can change your email address for logging in and receive emails. To do so, *enter* your new email address in the **Email** text box. Don't forget to *scroll* to the bottom and *click* **Save Changes**.
+
+<div class="full zoomable"><img src="/images/account_settings/email.png"></div>
+
+--
+
+<a name='DisplayName'></a>
+
+[Top](#Top)<br />
+## Display Name
+
+To change your display name *enter* the new display name in the **Display Name** text box. Don't forget to *scroll* to the bottom and *click* **Save Changes**.  Your display name is used when posting to custom sources.
+
+<div class="full zoomable"><img src="/images/account_settings/display_name.png"></div>
+
+--
+
+<a name='Tomezone'></a>
+
+[Top](#Top)<br />
+## Timezone
+
+You can change your timezone by *selecting* the new **Timezone** from the drop down. Don't forget to *scroll* to the bottom and *click* **Save Changes**.
+
+<div class="full zoomable"><img src="/images/account_settings/timezone.png"></div>
 
 --
 
 <a name='Password'></a>
 
 [Top](#Top)<br />
-## Changing your password 
+## Password 
 
-To change your password, *enter* your current password in the **Existing Password** text box and *enter* your desired new password in the **New Password** text box. Make sure it's a password that you can remember before *clicking* **save changes**! 
+To change your password, *enter* your current password in the **Existing Password** text box and *enter* your desired new password in the **New Password** text box. Make sure it's a password that you can remember before you *scroll* to the bottom and *click* **Save Changes**! 
 
 If you forget your password but are still logged in, you can change your password by *clicking* the **Reset** button near the **Existing Password** box. 
+
+<div class="full zoomable"><img src="/images/account_settings/password.png"></div>
 
 --
 
@@ -63,7 +94,20 @@ If you forget your password but are still logged in, you can change your passwor
 [Top](#Top)<br />
 ## Receive Newsletters
 
-*Unchecking* the **Recieve Newsletters** checkbox will turn off your personal digests from backstitch. However, this does not affect organization digests if a team you are associated with sends them out. 
+*Unchecking* the **Recieve Newsletters** checkbox will turn off your personal digests from backstitch. However, this does not affect organization digests if a team you are associated with sends them out. Don't forget to *scroll* to the bottom and *click* **Save Changes**.
+
+<div class="full zoomable"><img src="/images/account_settings/newsletter.png"></div>
+
+--
+
+<a name='Digest'></a>
+
+[Top](#Top)<br />
+## Digest Frequency
+
+You can change the frequency with which you receive your personal digest.  Weekly digests are sent out on Mondays and Daily digests are sent out everyday, all digests are sent at 9:00am in your time zone. Don't forget to *scroll* to the bottom and *click* **Save Changes**.
+
+<div class="full zoomable"><img src="/images/account_settings/digest.png"></div>
 
 --
 
@@ -72,9 +116,16 @@ If you forget your password but are still logged in, you can change your passwor
 [Top](#Top)<br />
 ## Open Results with backstitch
 
-*Unchecking* the **Open Results with backstitch** checkbox will no longer open results inside of backstitch, instead when you *click* on a result it will take you to the original source in a new tab. *Checking* the **Open Results with backstitch** checkbox will open your results within backstitch, if that result has been indexed (or else you will be brought to the original source). 
+*Unchecking* the **Open Results with backstitch** checkbox will no longer open results inside of backstitch, instead when you *click* on a result it will take you to the original source in a new tab. 
 
-Note: turning this off will prevent you from using certain features of backstitch (such as sharing results from within backstitch, using the Share to Wordpress plugin, and seeing highlighting indicating why this result is displayed in this topic). 
+<div class="full zoomable"><img src="/images/account_settings/results.png"></div>
+
+<div class="note">
+  Note: Turning this off will disable certain features within backstitch
+- sharing results from within backstitch
+- using the Share to Wordpress plugin
+- seeing highlighting indicating why this result is displayed in this topic 
+</div>
 
 --
 
@@ -83,6 +134,10 @@ Note: turning this off will prevent you from using certain features of backstitc
 [Top](#Top)<br />
 ## Authenticated Services
 
-You can authenticate different social media services (such as Facebook, Twitter, and Instagram) to ensure that your topics can include content from these sources. You can also deactivate services here if you do not want to have those services associated with backstitch anymore. 
+Authenticating services gives you access to include **[sources]({% post_url 2015-05-19-sources %})** such as Facebook and Twitter into your **[topics]({% post_url 2015-05-19-topics %})**.
 
-These services will have no barring on your organization pages, which use organization authenticated services rather than your personal ones. 
+<div class="full zoomable"><img src="/images/account_settings/authenticated_services.png"></div>
+
+<div class="note">
+  Note: backstitch never accesses information from your account; authorization just allows backstitch the authority to retrieve publicly available content on your behalf.
+</div>

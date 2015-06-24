@@ -49,7 +49,7 @@ The dashboard tab has three sections; **Authenticated Services**, **Email Digest
 
 #### Authenticated Services
 
-Authenticating services for your organization gives all team members access to including  **[sources]({% post_url 2015-05-19-sources %})** such as Facebook and Twitter into their  **[topics]({% post_url 2015-05-19-topics %})** without needing to authenticate using their personal social accounts.
+Authenticating services for your organization gives all team members access to include **[sources]({% post_url 2015-05-19-sources %})** such as Facebook and Twitter into their  **[topics]({% post_url 2015-05-19-topics %})** without needing to authenticate using their personal social accounts.
 
 <div class="full zoomable"><img src="/images/organizations/dashboard/authenticated_services.png"></div>
 
