@@ -121,10 +121,7 @@ You can change the frequency with which you receive your personal digest.  Weekl
 <div class="full zoomable"><img src="/images/account_settings/results.png"></div>
 
 <div class="note">
-  Note: Turning this off will disable certain features within backstitch
-- sharing results from within backstitch
-- using the Share to Wordpress plugin
-- seeing highlighting indicating why this result is displayed in this topic 
+  Note: Turning this off will disable certain features within backstitch: sharing results from within backstitch, using the Share to Wordpress plugin, and seeing highlighting indicating why this result is displayed in this topic.
 </div>
 
 --
