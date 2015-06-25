@@ -64,7 +64,7 @@ For more information about the backstitch API, visit our [API & Widget documenta
 
 *Available to team, business, and enterprise subscribers*
 
-The backstitch widget allows you to embed your topic page on your blog, website, or anywhere HTML is embeddable. With a very simple, lightweight bit of code that can be copied and pasted anywhere and no iFrames necessary.
+The backstitch widget allows you to embed your topic page on your blog, website, or anywhere HTML is embeddable. With a very simple, lightweight bit of code that can be copied and pasted anywhere, with no iFrames necessary.
 
 You can activate the Widget plugin by *clicking* on **Widget** from the available plugins.
 
