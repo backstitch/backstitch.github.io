@@ -1,0 +1,1090 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>http://docs.backstit.ch</link>
+    <atom:link href="http://docs.backstit.ch/feed.xml" rel="self" type="application/rss+xml" />
+    <description></description>
+    <language>en-us</language>
+    <pubDate>Fri, 26 Jun 2015 00:58:33 +0000</pubDate>
+    <lastBuildDate>Fri, 26 Jun 2015 00:58:33 +0000</lastBuildDate>
+
+    
+    
+    <item>
+      <title>Topics</title>
+      <link>http://docs.backstit.ch/2015/05/19/topics/</link>
+      <pubDate>Tue, 19 May 2015 00:00:00 +0000</pubDate>
+      <author></author>
+      <guid>http://docs.backstit.ch/2015/05/19/topics</guid>
+      <description>&lt;p&gt;A topic is an automated stream of curated content collected from various &lt;strong&gt;&lt;a href=&quot;/2015/05/19/sources/&quot;&gt;sources&lt;/a&gt;&lt;/strong&gt; such as News Sites, Blogs, Social &amp;amp; Rich Media websites.&lt;/p&gt;
+
+&lt;p&gt;A topic can be focused around a specific theme by combining like-minded &lt;strong&gt;&lt;a href=&quot;/2015/05/19/sources/&quot;&gt;sources&lt;/a&gt;&lt;/strong&gt; and making use of optional &lt;strong&gt;&lt;a href=&quot;/2015/05/18/filters/&quot;&gt;filters&lt;/a&gt;&lt;/strong&gt; to only show results that match particular keywords and phrases.&lt;/p&gt;
+
+&lt;p&gt;Your topics can be edited at any time so you can continue to tweak and change the theme of the content to match your changing interests!&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&#39;Top&#39; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;how_do_i&quot;&gt;How do I…?&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;#NavigatingTopics&quot;&gt;Find topics I’m following&lt;/a&gt;&lt;br /&gt; &lt;a href=&quot;#ViewingTopics&quot;&gt;Use a topic&lt;/a&gt;&lt;br /&gt; &lt;a href=&quot;#CreatingTopics&quot;&gt;Create a new topic&lt;/a&gt;&lt;br /&gt; &lt;a href=&quot;#EditingTopics&quot;&gt;Make changes to one of my topics&lt;/a&gt;&lt;br /&gt; &lt;a href=&quot;#FollowingTopics&quot;&gt;Follow other people’s topics&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;a name=&#39;NavigatingTopics&#39; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#Top&quot;&gt;Top&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;navigating_topics&quot;&gt;Navigating Topics&lt;/h2&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/topics/view_topic_0.png&#39; /&gt;&lt;/div&gt;
+&lt;p&gt;backstitch puts the topic selector top and center to easily switch from one topic to another.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Most Viewed&lt;/strong&gt;: Sorts your topics in order by how frequently you view them.&lt;/li&gt;
+
+&lt;li&gt;&lt;strong&gt;A-Z&lt;/strong&gt;: Sorts your topics by name in alphabetical order.&lt;/li&gt;
+
+&lt;li&gt;&lt;strong&gt;What’s New&lt;/strong&gt;: Shows the latest content from across &lt;em&gt;all&lt;/em&gt; of your topics.&lt;/li&gt;
+
+&lt;li&gt;&lt;strong&gt;Unread Count&lt;/strong&gt;: Shows how many new items are available since the last time you visited a topic.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Tip: You can search for topics by name by typing in the the selector.&lt;/em&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;a name=&#39;ViewingTopics&#39; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#Top&quot;&gt;Top&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;viewing_topics&quot;&gt;Viewing Topics&lt;/h2&gt;
+
+&lt;p&gt;When viewing a topic you will notice three main sections; the cover, the toolbar, and the stream of curated content.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/topics/view_topic_1.png&#39; /&gt;&lt;/div&gt;
+&lt;h4 id=&quot;the_cover&quot;&gt;The Cover&lt;/h4&gt;
+
+&lt;p&gt;The cover region will display the name of the topic and either an uploaded banner image, or a mosaic of pictures that has been automatically assembled from your topic’s content. This region can also be chosen to be hidden from the topic editor.&lt;/p&gt;
+
+&lt;h4 id=&quot;the_toolbar&quot;&gt;The Toolbar&lt;/h4&gt;
+
+&lt;p&gt;Below the cover is a toolbar that offers several options to interact with your topic.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;x followers&lt;/strong&gt;: Displays how many people are currently following this topic.&lt;/li&gt;
+
+&lt;li&gt;&lt;strong&gt;Hide duplicate posts&lt;/strong&gt;: Sometimes the exact same post will come from different sources included in a topic. By checking this box backstitch will attempt to hide any potentially duplicated items.&lt;/li&gt;
+
+&lt;li&gt;&lt;strong&gt;Search&lt;/strong&gt;: Search for specific content within a topic.&lt;/li&gt;
+
+&lt;li&gt;&lt;strong&gt;Follow&lt;/strong&gt;: If you are viewing a topic that you don’t already follow you can do so by clicking this button.&lt;/li&gt;
+
+&lt;li&gt;&lt;strong&gt;Unfollow&lt;/strong&gt;: If you no longer want to follow this topic you can remove it from your followed list by clicking this button.&lt;/li&gt;
+
+&lt;li&gt;&lt;strong&gt;Edit&lt;/strong&gt;: Make changes to this topic.&lt;/li&gt;
+
+&lt;li&gt;&lt;strong&gt;Share&lt;/strong&gt;: If this is a public topic you can share it with friends.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;curated_content&quot;&gt;Curated Content&lt;/h4&gt;
+
+&lt;p&gt;The main section of every topic contains the content from its included sources after being filtered by specified keywords and phrases. The stream is sorted with the newest content at the top and infinitely scrolls back in time.&lt;/p&gt;
+
+&lt;p&gt;Left clicking on an item will open the full content inside of backstitch while right-clicking will enable opening its origin in a new tab or window.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/topics/view_topic_4.png&#39; /&gt;&lt;/div&gt;
+&lt;p&gt;There are two different themes available for viewing curated content: &lt;strong&gt;grid view&lt;/strong&gt; and &lt;strong&gt;list view&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;When you sign up for backstitch the default is set to grid view but it is easy to switch between the two. From the &lt;strong&gt;settings gear&lt;/strong&gt; in the upper-right hand corner you can switch between grid and list.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/topics/view_topic_5.png&#39; /&gt;&lt;/div&gt;&lt;hr /&gt;
+&lt;p&gt;&lt;a name=&#39;CreatingTopics&#39; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#Top&quot;&gt;Top&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;how_to_create_a_new_topic&quot;&gt;How to Create a New Topic&lt;/h2&gt;
+
+&lt;p&gt;Creating a new topic is easy!&lt;/p&gt;
+
+&lt;p&gt;From the navigation bar at the top of the screen &lt;em&gt;click&lt;/em&gt; on the large &lt;strong&gt;+ button&lt;/strong&gt; and select &lt;strong&gt;“Create a new topic”&lt;/strong&gt;.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/topics/create_topic_0.png&#39; /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Give your topic a name:&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/topics/create_topic_1.png&#39; /&gt;&lt;/div&gt;
+&lt;h4 id=&quot;adding_sources&quot;&gt;Adding sources&lt;/h4&gt;
+
+&lt;p&gt;After giving your topic a name you will be able to search for the sources you want to add to your topic. You can search for names of your favorite news sites, hashtags on social media, RSS feeds, and more.&lt;/p&gt;
+
+&lt;p&gt;For more strategies on adding sources &lt;strong&gt;&lt;a href=&quot;/2015/05/19/sources/&quot;&gt;check out this article&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/topics/create_topic_2.png&#39; /&gt;&lt;/div&gt;
+&lt;h4 id=&quot;setting_filters&quot;&gt;Setting filters&lt;/h4&gt;
+
+&lt;p&gt;Filters let you reduce the content from your sources to only include content that mentions specific keywords or phrases.&lt;/p&gt;
+
+&lt;p&gt;For more strategies on setting filters &lt;strong&gt;&lt;a href=&quot;/2015/05/18/filters/&quot;&gt;check out this article&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/topics/create_topic_3.png&#39; /&gt;&lt;/div&gt;&lt;hr /&gt;
+&lt;p&gt;&lt;a name=&#39;EditingTopics&#39; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#Top&quot;&gt;Top&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;how_to_make_changes_to_a_topic&quot;&gt;How to Make Changes to a Topic&lt;/h2&gt;
+
+&lt;p&gt;Overtime you may find that you want to include more sources or set different filters on your topic. To make changes to your topic simply click on the &lt;strong&gt;Edit&lt;/strong&gt; button.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/topics/edit_topic_0.png&#39; /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;How do I change or hide the topic’s banner image?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Every topic has a banner section that you can personalize to match your interests. By default backstitch presents an automated mosaic of related images.&lt;/p&gt;
+
+&lt;p&gt;To upload your own image click the &lt;strong&gt;Upload Banner&lt;/strong&gt; button or if you prefer to go without a banner you can check the &lt;strong&gt;Hide Banner&lt;/strong&gt; box in the upper-right hand corner.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/topics/edit_topic_1.png&#39; /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;How do I include content from other sources?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;When editing a topic you will see a list of its included sources in the left-side column. By clicking the &lt;strong&gt;+ Add More&lt;/strong&gt; button you will launch the dialog to &lt;strong&gt;&lt;a href=&quot;/2015/05/19/sources/&quot;&gt;discover and add more sources&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;For more information on the ways to discover different sources of content &lt;strong&gt;&lt;a href=&quot;/2015/05/19/sources/&quot;&gt;check out this article&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/topics/edit_topic_2.png&#39; /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;How do I remove content from specific sources?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;When editing your topic you will notice that each listed source has a small &lt;strong&gt;x&lt;/strong&gt; icon on its upper-right hand corner. By clicking the &lt;strong&gt;x&lt;/strong&gt; you will remove the source from your topic.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/topics/edit_topic_3.png&#39; /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;How do I make my topic more specific?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;When editing a topic you will see a list of &lt;strong&gt;&lt;a href=&quot;/2015/05/18/filters/&quot;&gt;filters&lt;/a&gt;&lt;/strong&gt; that will tailor the topic to only include content matching specific keywords and phrases.&lt;/p&gt;
+
+&lt;p&gt;To learn more about the different types of filters available &lt;strong&gt;&lt;a href=&quot;/2015/05/18/filters/&quot;&gt;check out this article&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/topics/edit_topic_4.png&#39; /&gt;&lt;/div&gt;&lt;hr /&gt;
+&lt;p&gt;&lt;a name=&#39;FollowingTopics&#39; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#Top&quot;&gt;Top&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;following_other_peoples_topics&quot;&gt;Following Other People’s Topics&lt;/h2&gt;
+
+&lt;p&gt;Other people have already created topics around their favorites interests and made them available for you to follow. The backstitch team regularly features the best in our “Discover Topics” catalog.&lt;/p&gt;
+
+&lt;p&gt;From the navigation bar at the top of the screen &lt;em&gt;click&lt;/em&gt; on the large &lt;strong&gt;+ button&lt;/strong&gt; and select &lt;strong&gt;“Discover topics”&lt;/strong&gt;.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/topics/discover_topics_0.png&#39; /&gt;&lt;/div&gt;
+&lt;p&gt;From the “Discover Topics” catalog you will find categories of available topics as well as the ability to search for specific topics.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/topics/discover_topics_1.png&#39; /&gt;&lt;/div&gt;
+&lt;p&gt;You can preview a topic by simply clicking anywhere on its name or image. To add it to your list of followed topics you can do so by clicking on the &lt;strong&gt;orange + button&lt;/strong&gt; in the upper right-hand corner.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/topics/discover_topics_2.png&#39; /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;#Top&quot;&gt;Top&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Sources</title>
+      <link>http://docs.backstit.ch/2015/05/19/sources/</link>
+      <pubDate>Tue, 19 May 2015 00:00:00 +0000</pubDate>
+      <author></author>
+      <guid>http://docs.backstit.ch/2015/05/19/sources</guid>
+      <description>&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;/2015/05/19/topics/&quot;&gt;Topics&lt;/a&gt;&lt;/strong&gt; can pull together content from various sources from across the web. These sources can range from news and blog feeds to hashtags on social media and even video channels.&lt;/p&gt;
+
+&lt;p&gt;To make changes to the sources included in your topic go to the &lt;a href=&#39;/2015/05/19/topics/#EditingTopics&#39; target=&#39;_blank&#39;&gt;&lt;b&gt;topic edit screen&lt;/b&gt;&lt;/a&gt; and click the &lt;strong&gt;+ Add More&lt;/strong&gt; button on the left side of the screen.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/topics/edit_topic_2.png&#39; /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;a name=&#39;Top&#39; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;how_do_i&quot;&gt;How do I…?&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;#DiscoverSources&quot;&gt;Discover sources to add&lt;/a&gt;&lt;br /&gt; &lt;a href=&quot;#CopySources&quot;&gt;Copy sources from another topic&lt;/a&gt;&lt;br /&gt; &lt;a href=&quot;#CrawlSources&quot;&gt;Pull sources from a specific website&lt;/a&gt;&lt;br /&gt; &lt;a href=&quot;#RemoveSources&quot;&gt;Remove a source&lt;/a&gt;&lt;br /&gt; &lt;a href=&quot;#FilterSources&quot;&gt;Filter a source&lt;/a&gt;&lt;br /&gt; &lt;a href=&quot;#AddRssFeed&quot;&gt;Add a specific RSS feed&lt;/a&gt;&lt;br /&gt; &lt;a href=&quot;#ImportOPMLFile&quot;&gt;Import sources from an OPML file&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;a name=&#39;DiscoverSources&#39; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#Top&quot;&gt;Top&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;discovering_sources&quot;&gt;Discovering Sources&lt;/h2&gt;
+
+&lt;p&gt;Discover sources helps you to find sources to include by searching for news sites, blogs, and even content from various social services (Facebook, Twitter, Google+, YouTube, LinkedIn, Tumblr, Flickr, Instagram, Reddit, and more).&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/sources/discover_sources_0.png&#39; /&gt;&lt;/div&gt;
+&lt;h4 id=&quot;the_sort_of_searches_you_can_perform&quot;&gt;The sort of searches you can perform:&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The exact name of a news site or blog&lt;/li&gt;
+
+&lt;li&gt;Specific people or companies on social media&lt;/li&gt;
+
+&lt;li&gt;Phrases mentioned on social media&lt;/li&gt;
+
+&lt;li&gt;Video channels and photo groups&lt;/li&gt;
+
+&lt;li&gt;Sites that talk about specified subjects&lt;/li&gt;
+
+&lt;li&gt;Hashtags&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;To include a discovered source into your topic click the green &lt;strong&gt;+ add&lt;/strong&gt; link.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/sources/discover_sources_1.png&#39; /&gt;&lt;/div&gt;
+&lt;p&gt;Many of the social services require activation with an account on their network to allow content inclusion into a backstitch topic.&lt;/p&gt;
+
+&lt;p&gt;To activate simply click the purple &lt;strong&gt;Activate&lt;/strong&gt; button under each service and allow backstitch access from the window that opens.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/sources/authenticate_discover.png&#39; /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Note: backstitch never accesses information from your account; authorization just allows backstitch the authority to retrieve publicly available content on your behalf.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;discoverable_services&quot;&gt;Discoverable Services&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;RSS&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Articles from RSS feeds&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Twitter&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Tweets from a public account&lt;/li&gt;
+
+&lt;li&gt;Public tweets using a hashtag&lt;/li&gt;
+
+&lt;li&gt;Public tweets mentioning a phrase&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;YouTube&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Videos from a public channel&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Facebook&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Posts from a public page&lt;/li&gt;
+
+&lt;li&gt;Public posts using a hashtag&lt;/li&gt;
+
+&lt;li&gt;Public posts mentioning a phrase&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Flickr&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Photos from a public group&lt;/li&gt;
+
+&lt;li&gt;Public photos mentioning a phrase in its description&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Reddit&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Submissions from public subreddits&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Instagram&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Photos from a public account&lt;/li&gt;
+
+&lt;li&gt;Public photos using a hashtag&lt;/li&gt;
+
+&lt;li&gt;Public photos mentioning a phrase in its description&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Google+&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Posts from a public account or page&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;a name=&#39;CopySources&#39; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#Top&quot;&gt;Top&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;copying_sources&quot;&gt;Copying Sources&lt;/h2&gt;
+
+&lt;p&gt;Sometimes you will want to include all the sources already added to another topic. From the &lt;strong&gt;Copy Sources&lt;/strong&gt; tab it is easy to add all of the sources included in another topic with one click.&lt;/p&gt;
+
+&lt;p&gt;You will also find a list of helpful public topics that contain the top sources on subjects such as World News, Manufacturing, and Technology.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/sources/copy_sources_0.png&#39; /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Tip: Create topics that contain the sources for things like key industry journals or your competitor’s social streams and use these as “Master Source lists” for copying and filtering into specific topics.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;a name=&#39;CrawlSources&#39; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#Top&quot;&gt;Top&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;crawling_sources&quot;&gt;Crawling Sources&lt;/h2&gt;
+
+&lt;p&gt;If there is a specific website you want to try to include as a source you can type its URL into the &lt;strong&gt;Crawl Sources&lt;/strong&gt; tab and backstitch will find any RSS feeds or social media accounts listed on that page.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/sources/crawl_sources_0.png&#39; /&gt;&lt;/div&gt;
+&lt;p&gt;From the &lt;strong&gt;Crawl Sources&lt;/strong&gt; tab you can also install the &lt;strong&gt;backstitch bookmarklet&lt;/strong&gt; that will allow you to crawl sources listed on any website right from your web browser.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/sources/crawl_sources_1.png&#39; /&gt;&lt;/div&gt;&lt;hr /&gt;
+&lt;p&gt;&lt;a name=&#39;RemoveSources&#39; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#Top&quot;&gt;Top&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;removing_sources&quot;&gt;Removing Sources&lt;/h2&gt;
+
+&lt;p&gt;When &lt;a href=&#39;/2015/05/19/topics/#EditingTopics&#39; target=&#39;_blank&#39;&gt;&lt;b&gt;editing a topic&lt;/b&gt;&lt;/a&gt; you can remove a source one of three ways:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Click the &lt;strong&gt;small x&lt;/strong&gt; in the upper right-hand corner of the included source. &lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/topics/edit_topic_3.png&#39; /&gt;&lt;/div&gt;&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;Click on the name of an included source and click the &lt;strong&gt;remove&lt;/strong&gt; button from the source dialog. &lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/sources/remove_sources_0.png&#39; /&gt;&lt;/div&gt;&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;From the &lt;strong&gt;&lt;a href=&quot;#DiscoverSources&quot;&gt;add sources dialog&lt;/a&gt;&lt;/strong&gt; you will see your included sources on the right sidebar. In the upper right-hand corner of each source is a &lt;strong&gt;remove&lt;/strong&gt; link. &lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/sources/remove_sources_1.png&#39; /&gt;&lt;/div&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;a name=&#39;FilterSources&#39; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#Top&quot;&gt;Top&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;filtering_sources&quot;&gt;Filtering Sources&lt;/h2&gt;
+
+&lt;p&gt;You can filter your topic to show only content that matches specific keywords or phrases. Filters can be set either on the entire topic (all sources) or on individual sources.&lt;/p&gt;
+
+&lt;p&gt;To set source filters click on the name of an included source from the &lt;a href=&#39;/2015/05/19/topics/#EditingTopics&#39; target=&#39;_blank&#39;&gt;&lt;b&gt;topic edit screen&lt;/b&gt;&lt;/a&gt; and specify your filters.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/sources/filter_sources_0.png&#39; /&gt;&lt;/div&gt;
+&lt;p&gt;From the &lt;strong&gt;&lt;a href=&quot;#DiscoverSources&quot;&gt;add sources dialog&lt;/a&gt;&lt;/strong&gt; you can also expand the filter drawer of a specific source listed in the right-hand column.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/sources/filter_sources_1.png&#39; /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;To learn more about the different types of filters available be sure to &lt;strong&gt;&lt;a href=&quot;/2015/05/18/filters/&quot;&gt;check out this article&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;a name=&#39;AddRssFeed&#39; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#Top&quot;&gt;Top&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;adding_a_specific_rss_feed_to_a_topic&quot;&gt;Adding a specific RSS feed to a topic&lt;/h2&gt;
+
+&lt;p&gt;If there is a specific RSS feed you want to include into your topic; simply paste the feed’s URL into the search bar of the &lt;strong&gt;&lt;a href=&quot;#DiscoverSources&quot;&gt;Discover Sources&lt;/a&gt;&lt;/strong&gt; tab and select the first result that comes up under the RSS section.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/sources/rss_sources.png&#39; /&gt;&lt;/div&gt;&lt;hr /&gt;
+&lt;p&gt;&lt;a name=&#39;ImportOPMLFile&#39; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#Top&quot;&gt;Top&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;importing_an_opml_file&quot;&gt;Importing an OPML file&lt;/h2&gt;
+
+&lt;p&gt;If you have sources from another tool (such as an RSS reader or dashboard tool) you may be able to export your sources into an OPML file. This can be imported directly into a topic from the &lt;strong&gt;&lt;a href=&quot;#DiscoverSources&quot;&gt;Discover Sources&lt;/a&gt;&lt;/strong&gt; tab using the &lt;strong&gt;Upload OPML&lt;/strong&gt; utility.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/sources/opml_sources.png&#39; /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;It may take several minutes before all of your sources are copied over and appear included in your topic&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#Top&quot;&gt;Top&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Filters</title>
+      <link>http://docs.backstit.ch/2015/05/18/filters/</link>
+      <pubDate>Mon, 18 May 2015 00:00:00 +0000</pubDate>
+      <author></author>
+      <guid>http://docs.backstit.ch/2015/05/18/filters</guid>
+      <description>&lt;p&gt;Filters help to craft your topic to be even more relevant and specific to your interests. When adding filters to backstitch there are two options:&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&#39;Top&#39; /&gt;&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/filters/basic_advanced_filters.png&#39; /&gt;&lt;/div&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;#BasicFilters&quot;&gt;Basic Filters&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;#AdvancedFilters&quot;&gt;Advanced Filters&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;and they can each be added as either &lt;strong&gt;&lt;a href=&quot;#TopicFilters&quot;&gt;Topic Filters&lt;/a&gt;&lt;/strong&gt; or &lt;strong&gt;&lt;a href=&quot;#SourceFilters&quot;&gt;Source Filters&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;a name=&#39;BasicFilters&#39; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#Top&quot;&gt;Top&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;basic_filters&quot;&gt;Basic Filters&lt;/h2&gt;
+
+&lt;p&gt;Basic filters let you specify keywords or phrases that should be included &lt;em&gt;and not&lt;/em&gt; included in the content of your &lt;strong&gt;&lt;a href=&quot;/2015/05/19/topics/&quot;&gt;topic&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Basic filters are made up of &lt;font color=&#39;#208b1b&#39;&gt;&lt;strong&gt;include filters&lt;/strong&gt;&lt;/font&gt; and &lt;font color=&#39;#9f101b&#39;&gt;&lt;strong&gt;exclude filters&lt;/strong&gt;&lt;/font&gt;:&lt;/p&gt;
+
+&lt;h3 id=&quot;&quot;&gt;&lt;font color=&#39;#208b1b&#39;&gt;Include Filters&lt;/font&gt;&lt;/h3&gt;
+
+&lt;p&gt;Setting an include filter will ensure that your topic will only show content from your &lt;strong&gt;&lt;a href=&quot;/2015/05/19/sources/&quot;&gt;sources&lt;/a&gt;&lt;/strong&gt; that contains &lt;em&gt;&lt;strong&gt;at least one&lt;/strong&gt;&lt;/em&gt; of the words or phrases specified.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/filters/basic_filters_0.png&#39; /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Example: If you want content that mentions either &lt;u&gt;Toronto&lt;/u&gt; or &lt;u&gt;Calgary&lt;/u&gt;.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;_2&quot;&gt;&lt;font color=&#39;#9f101b&#39;&gt;Exclude Filters&lt;/font&gt;&lt;/h3&gt;
+
+&lt;p&gt;Setting an exclude filter will ensure that your topic will not show any content from your &lt;strong&gt;&lt;a href=&quot;/2015/05/19/sources/&quot;&gt;sources&lt;/a&gt;&lt;/strong&gt; that contains &lt;em&gt;&lt;strong&gt;any&lt;/strong&gt;&lt;/em&gt; of the words or phrases specified.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/filters/basic_filters_1.png&#39; /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Example: If you don’t want any content that mentions &lt;u&gt;tourism&lt;/u&gt;, &lt;u&gt;travel&lt;/u&gt; or &lt;u&gt;sightseeing&lt;/u&gt;.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;a name=&#39;AdvancedFilters&#39; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#Top&quot;&gt;Top&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;advanced_filters&quot;&gt;Advanced Filters&lt;/h2&gt;
+
+&lt;p&gt;Advanced filters lets you chain together groups of keywords or phrases where &lt;font color=&#39;#208b1b&#39;&gt;&lt;strong&gt;any&lt;/strong&gt;&lt;/font&gt;, &lt;font color=&#39;#00688b&#39;&gt;&lt;strong&gt;all&lt;/strong&gt;&lt;/font&gt; and &lt;font color=&#39;#9f101b&#39;&gt;&lt;strong&gt;none&lt;/strong&gt;&lt;/font&gt; of those specified should be mentioned in your topic’s content.&lt;/p&gt;
+
+&lt;h3 id=&quot;_3&quot;&gt;&lt;font color=&#39;#208b1b&#39;&gt;Any Filters&lt;/font&gt;&lt;/h3&gt;
+
+&lt;p&gt;Setting an any filter will ensure that your topic will show content from your &lt;strong&gt;&lt;a href=&quot;/2015/05/19/sources/&quot;&gt;sources&lt;/a&gt;&lt;/strong&gt; that contains &lt;em&gt;&lt;strong&gt;at least one&lt;/strong&gt;&lt;/em&gt; of the words or phrases specified.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/filters/advanced_filters_0.png&#39; /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Example: If you want content that mentions either &lt;u&gt;urban farming&lt;/u&gt; or &lt;u&gt;urban chicken coop&lt;/u&gt;.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;_4&quot;&gt;&lt;font color=&#39;#00688b&#39;&gt;All Filters&lt;/font&gt;&lt;/h3&gt;
+
+&lt;p&gt;Setting an all filter will ensure that your topic will only show content from your &lt;strong&gt;&lt;a href=&quot;/2015/05/19/sources/&quot;&gt;sources&lt;/a&gt;&lt;/strong&gt; that contains &lt;em&gt;&lt;strong&gt;every&lt;/strong&gt;&lt;/em&gt; word or phrase specified.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/filters/advanced_filters_1.png&#39; /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Example: If you want content that mentions both &lt;u&gt;Detroit&lt;/u&gt; and &lt;u&gt;ordinances&lt;/u&gt;.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;_5&quot;&gt;&lt;font color=&#39;#9f101b&#39;&gt;None Filters&lt;/font&gt;&lt;/h3&gt;
+
+&lt;p&gt;Setting a none filter will ensure that your topic will not show any content from your &lt;strong&gt;&lt;a href=&quot;/2015/05/19/sources/&quot;&gt;sources&lt;/a&gt;&lt;/strong&gt; that contains &lt;em&gt;&lt;strong&gt;any&lt;/strong&gt;&lt;/em&gt; of the words or phrases specified.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/filters/advanced_filters_2.png&#39; /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Example: If you don’t want any content that mentions &lt;u&gt;tree farms&lt;/u&gt;.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;andor_operator&quot;&gt;AND/OR Operator&lt;/h3&gt;
+
+&lt;p&gt;The operation that evaluates the list of &lt;font color=&#39;#208b1b&#39;&gt;&lt;strong&gt;any filters&lt;/strong&gt;&lt;/font&gt; with the &lt;font color=&#39;#00688b&#39;&gt;&lt;strong&gt;all filters&lt;/strong&gt;&lt;/font&gt; can be toggled from the default &lt;strong&gt;and operator&lt;/strong&gt; to be instead evaluated as an &lt;strong&gt;or operator&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;To toggle simply click the operator between the any and all filter tabs.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;and_operator&quot;&gt;AND Operator&lt;/h4&gt;
+
+&lt;p&gt;If you wanted content that mentioned &lt;font color=&#39;#208b1b&#39;&gt;urban farming&lt;/font&gt; &lt;strong&gt;or&lt;/strong&gt; &lt;font color=&#39;#208b1b&#39;&gt;urban chicken coop&lt;/font&gt; &lt;u&gt;&lt;strong&gt;AND&lt;/strong&gt;&lt;/u&gt; &lt;font color=&#39;#00688b&#39;&gt;Detroit&lt;/font&gt; &lt;strong&gt;and&lt;/strong&gt; &lt;font color=&#39;#00688b&#39;&gt;ordinances&lt;/font&gt;.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/filters/advanced_filters_3.png&#39; /&gt;&lt;/div&gt;&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/filters/advanced_filters_4.png&#39; /&gt;&lt;/div&gt;
+&lt;h4 id=&quot;or_operator&quot;&gt;OR Operator&lt;/h4&gt;
+
+&lt;p&gt;If you wanted content that mentioned &lt;font color=&#39;#208b1b&#39;&gt;urban farming&lt;/font&gt; &lt;strong&gt;or&lt;/strong&gt; &lt;font color=&#39;#208b1b&#39;&gt;urban chicken coop&lt;/font&gt; &lt;u&gt;&lt;strong&gt;OR&lt;/strong&gt;&lt;/u&gt; &lt;font color=&#39;#00688b&#39;&gt;Detroit&lt;/font&gt; &lt;strong&gt;and&lt;/strong&gt; &lt;font color=&#39;#00688b&#39;&gt;ordinances&lt;/font&gt;.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/filters/advanced_filters_5.png&#39; /&gt;&lt;/div&gt;&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/filters/advanced_filters_6.png&#39; /&gt;&lt;/div&gt;
+&lt;h3 id=&quot;adding_another_filter_group&quot;&gt;Adding Another Filter Group&lt;/h3&gt;
+
+&lt;p&gt;Multiple filter groups can be chained together to build more complex filters.&lt;/p&gt;
+
+&lt;p&gt;To add another group click on the purple &lt;strong&gt;+ Add filter group&lt;/strong&gt; button underneath an existing filter group and select the operator &lt;strong&gt;(AND/OR)&lt;/strong&gt; to determine how the two groups should be evaluated together.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/filters/add_filter_group.png&#39; /&gt;&lt;/div&gt;&lt;hr /&gt;
+&lt;p&gt;&lt;a name=&#39;ObsceneFilter&#39; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#Top&quot;&gt;Top&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;hide_obscene_content_filter&quot;&gt;Hide Obscene Content Filter&lt;/h2&gt;
+
+&lt;p&gt;Available only as a global &lt;strong&gt;&lt;a href=&quot;#TopicFilters&quot;&gt;topic filter&lt;/a&gt;&lt;/strong&gt; when checked backstitch will attempt to filter out any potentially offensive content from your topic.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/filters/obscene_filter.png&#39; /&gt;&lt;/div&gt;&lt;hr /&gt;
+&lt;p&gt;&lt;a name=&#39;TopicFilters&#39; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#Top&quot;&gt;Top&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;topic_filters&quot;&gt;Topic Filters&lt;/h2&gt;
+
+&lt;p&gt;Topic filters act as a global filter across all of your topic’s sources collectively.&lt;/p&gt;
+
+&lt;p&gt;From the &lt;a href=&#39;/2015/05/19/topics/#EditingTopics&#39; target=&#39;_blank&#39;&gt;&lt;b&gt;topic edit screen&lt;/b&gt;&lt;/a&gt; topic filters are managed on the right side of the screen:&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/filters/topic_filters_0.png&#39; /&gt;&lt;/div&gt;
+&lt;p&gt;From the &lt;a href=&#39;/2015/05/19/sources/#DiscoverSources&#39; target=&#39;_blank&#39;&gt;&lt;b&gt;add sources dialog&lt;/b&gt;&lt;/a&gt; topic filters can be found by expanding the drawer underneath &lt;strong&gt;Filter All Sources&lt;/strong&gt;:&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/filters/topic_filters_1.png&#39; /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Advanced filters aren’t manageable from the filter drawer&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;a name=&#39;SourceFilters&#39; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#Top&quot;&gt;Top&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;source_filters&quot;&gt;Source Filters&lt;/h2&gt;
+
+&lt;p&gt;Source filters allow for setting filters only on a specific source. This is great for building topics that contain both very on subject sources alongside generic content sources with filters.&lt;/p&gt;
+
+&lt;p&gt;From the &lt;a href=&#39;/2015/05/19/topics/#EditingTopics&#39; target=&#39;_blank&#39;&gt;&lt;b&gt;topic edit screen&lt;/b&gt;&lt;/a&gt; &lt;strong&gt;&lt;em&gt;click&lt;/em&gt;&lt;/strong&gt; on an included source to manage its filters:&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/filters/source_filters_0.png&#39; /&gt;&lt;/div&gt;
+&lt;p&gt;From the &lt;a href=&#39;/2015/05/19/sources/#DiscoverSources&#39; target=&#39;_blank&#39;&gt;&lt;b&gt;add sources dialog&lt;/b&gt;&lt;/a&gt; a source’s filters can be found by expanding the drawer underneath its name in the right-hand column:&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/filters/source_filters_1.png&#39; /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Advanced filters aren’t manageable from the filter drawer&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;a name=&#39;FAQ&#39; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#Top&quot;&gt;Top&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;frequently_asked_questions_about_filters&quot;&gt;Frequently Asked Questions About Filters&lt;/h2&gt;
+
+&lt;h3 id=&quot;q_how_do_i_make_sure_my_filter_has_been_saved&quot;&gt;Q: How do I make sure my filter has been saved?&lt;/h3&gt;
+
+&lt;p&gt;Once you are finished typing your filter simply &lt;strong&gt;&lt;em&gt;press&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;Enter&lt;/strong&gt; on your keyboard to save your filter. It should turn a solid color to let you know it has saved properly.&lt;/p&gt;
+
+&lt;h3 id=&quot;q_do_i_need_to_add_both_the_plural_and_singular_form_of_my_filters&quot;&gt;Q: Do I need to add both the plural and singular form of my filters?&lt;/h3&gt;
+
+&lt;p&gt;backstitch takes word variation such as plural forms into account so there is no need to add both the singular and plural form.&lt;/p&gt;
+
+&lt;h3 id=&quot;q_do_i_need_to_put_quotes_around_a_phrase&quot;&gt;Q: Do I need to put quotes around a phrase?&lt;/h3&gt;
+
+&lt;p&gt;Filters that consist of multiple words are automatically quoted and match as an exact phrase.&lt;/p&gt;
+
+&lt;h3 id=&quot;q_how_long_does_it_take_for_my_filter_to_start_taking_effect&quot;&gt;Q: How long does it take for my filter to start taking effect?&lt;/h3&gt;
+
+&lt;p&gt;As with any changes to a topic (such as adding or removing sources) it may take a few moments to re-index your content. Try refreshing your topic after 10-30 seconds to see the changes have taken effect.&lt;/p&gt;
+
+&lt;h3 id=&quot;q_how_do_i_know_why_is_this_content_is_in_my_topic&quot;&gt;Q: How do I know why is this content is in my topic?&lt;/h3&gt;
+
+&lt;p&gt;backstitch will attempt to highlight sentences that match the filters set.&lt;/p&gt;
+
+&lt;h3 id=&quot;q_what_parts_of_the_content_can_i_filter_by&quot;&gt;Q: What parts of the content can I filter by?&lt;/h3&gt;
+
+&lt;p&gt;Every part of the content including the body, title, author name, and even social media usernames are filterable.&lt;/p&gt;</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Organizations</title>
+      <link>http://docs.backstit.ch/2015/05/17/organization/</link>
+      <pubDate>Sun, 17 May 2015 00:00:00 +0000</pubDate>
+      <author></author>
+      <guid>http://docs.backstit.ch/2015/05/17/organization</guid>
+      <description>&lt;p&gt;Organizations give teams the ability to organize and share &lt;strong&gt;&lt;a href=&quot;/2015/05/19/topics/&quot;&gt;topics&lt;/a&gt;&lt;/strong&gt; as well as unlock addditional backstitch customization and features.&lt;/p&gt;
+&lt;div class=&#39;note&#39;&gt;
+  Organizations are available with the &quot;backstitch for Teams&quot; and &quot;backstitch for Business&quot; plans.  Sign-up for a &lt;a href=&#39;http://backstit.ch/pricing&#39; target=&#39;_blank&#39;&gt;free 14-day trial&lt;/a&gt;.
+&lt;/div&gt;
+&lt;h3 id=&quot;organization_dashboard&quot;&gt;Organization Dashboard&lt;/h3&gt;
+
+&lt;p&gt;You can access your organization dashboard by &lt;em&gt;clicking&lt;/em&gt; the &lt;strong&gt;settings gear&lt;/strong&gt; in the upper right corner and &lt;em&gt;selecting&lt;/em&gt; the name of your organization.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/organizations/settings_organization.png&#39; /&gt;&lt;/div&gt;
+&lt;p&gt;The organization dashboard helps you to manage your teams &amp;amp; topics, view analytics, customize the backstitch experience and access priority help &amp;amp; support.&lt;/p&gt;
+
+&lt;p&gt;The following sections are available within the organization dashboard:&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&#39;Top&#39; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#Dashboard&quot;&gt;Dashboard&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;#TeamMembers&quot;&gt;Team Members&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;#Topics&quot;&gt;Topics&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;#CustomSources&quot;&gt;Custom Sources&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;#Theme&quot;&gt;Theme&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;#Billing&quot;&gt;Billing&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;#Support&quot;&gt;Support&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;a name=&#39;Dashboard&#39; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#Top&quot;&gt;Top&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;dashboard&quot;&gt;Dashboard&lt;/h2&gt;
+
+&lt;p&gt;The dashboard tab has three sections; &lt;strong&gt;Authenticated Services&lt;/strong&gt;, &lt;strong&gt;Email Digest&lt;/strong&gt;, and &lt;strong&gt;API Key&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;authenticated_services&quot;&gt;Authenticated Services&lt;/h4&gt;
+
+&lt;p&gt;Authenticating services for your organization gives all team members access to include &lt;strong&gt;&lt;a href=&quot;/2015/05/19/sources/&quot;&gt;sources&lt;/a&gt;&lt;/strong&gt; such as Facebook and Twitter into their &lt;strong&gt;&lt;a href=&quot;/2015/05/19/topics/&quot;&gt;topics&lt;/a&gt;&lt;/strong&gt; without needing to authenticate using their personal social accounts.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/organizations/dashboard/authenticated_services.png&#39; /&gt;&lt;/div&gt;&lt;div class=&#39;note&#39;&gt;
+  Note: backstitch never accesses information from your account; authorization just allows backstitch the authority to retrieve publicly available content on your behalf.
+&lt;/div&gt;
+&lt;h4 id=&quot;email_digests&quot;&gt;Email Digests&lt;/h4&gt;
+
+&lt;p&gt;Email digests gives you control over when and how often your team members receive personalized digests of content curated from the &lt;strong&gt;&lt;a href=&quot;/2015/05/19/topics/&quot;&gt;topics&lt;/a&gt;&lt;/strong&gt; they’re following.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/organizations/dashboard/email_digest.png&#39; /&gt;&lt;/div&gt;
+&lt;h4 id=&quot;api_key&quot;&gt;API Key&lt;/h4&gt;
+
+&lt;p&gt;With a &lt;strong&gt;&lt;a href=&#39;http://backstit.ch/pricing&#39; target=&#39;_blank&#39;&gt;backstitch for Business&lt;/a&gt;&lt;/strong&gt; subscription you have complete access to backstitch using our Developer API.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/organizations/dashboard/api_key.png&#39; /&gt;&lt;/div&gt;
+&lt;p&gt;For more information about the developer API be sure to reference the &lt;strong&gt;&lt;a href=&#39;http://docs.backstit.ch/api&#39; target=&#39;_blank&#39;&gt;complete API documentation&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;a name=&#39;TeamMembers&#39; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#Top&quot;&gt;Top&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;team_members&quot;&gt;Team Members&lt;/h2&gt;
+
+&lt;p&gt;Invite other people to join your organization, separate them into teams, and even monitor how active everyone is.&lt;/p&gt;
+
+&lt;p&gt;Every organization has a special team called &lt;em&gt;Organization Name&lt;/em&gt;(all) that every team member is a part of and cannot be deleted.&lt;/p&gt;
+
+&lt;h4 id=&quot;add_team&quot;&gt;Add Team&lt;/h4&gt;
+
+&lt;p&gt;&lt;em&gt;Clicking&lt;/em&gt; the &lt;strong&gt;+Add Team&lt;/strong&gt; button lets you to create a new team for your organization. People can be a part of multiple teams and teams can be given access to their own topics and have their own administrators.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/organizations/team_members/add_team.png&#39; /&gt;&lt;/div&gt;&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/organizations/team_members/add_team_dialog.png&#39; /&gt;&lt;/div&gt;
+&lt;h4 id=&quot;team_settings&quot;&gt;Team Settings&lt;/h4&gt;
+
+&lt;p&gt;&lt;em&gt;Click&lt;/em&gt; the &lt;strong&gt;Team Settings&lt;/strong&gt; button to rename a team’s name or remove it altogether.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/organizations/team_members/team_settings.png&#39; /&gt;&lt;/div&gt;&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/organizations/team_members/team_settings_dialog.png&#39; /&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Team Name&lt;/strong&gt;: Change the team name.&lt;/li&gt;
+
+&lt;li&gt;&lt;strong&gt;delete team&lt;/strong&gt;: Deletes the team, none of the team members or topics associated with the team will be deleted.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;add_team_members&quot;&gt;Add Team Members&lt;/h4&gt;
+
+&lt;p&gt;There are a several ways that you can invite and add team members to your organization.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Invite by Email&lt;/strong&gt; - team members can be invited directly via email by &lt;em&gt;clicking&lt;/em&gt; on the &lt;strong&gt;+Invite Member&lt;/strong&gt; button. &lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/organizations/team_members/invite_member.png&#39; /&gt;&lt;/div&gt; &lt;em&gt;typing&lt;/em&gt; in their email address and &lt;em&gt;clicking&lt;/em&gt; &lt;strong&gt;invite&lt;/strong&gt;. &lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/organizations/team_members/invite_member_dialog.png&#39; /&gt;&lt;/div&gt; This will send them an invitation email along with instructions to join backstitch and the team you’ve invited them to.&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Allowed Domains&lt;/strong&gt; - you can automatically give access to your organization to anyone that posesses a valid email address at specified domain. To add an allowed domain &lt;em&gt;click&lt;/em&gt; the &lt;strong&gt;Allowed Domains&lt;/strong&gt; button. &lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/organizations/team_members/allowed_domains.png&#39; /&gt;&lt;/div&gt; and &lt;strong&gt;type&lt;/strong&gt; each allowed domain into the text box and &lt;em&gt;click&lt;/em&gt; &lt;strong&gt;add&lt;/strong&gt;. &lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/organizations/team_members/allowed_domains_dialog.png&#39; /&gt;&lt;/div&gt; Before being added to your organization the team member will be sent an email to verify that they do in fact own that email address.&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Adding from another team&lt;/strong&gt;: Team members that are already a part of the organization can be added to another team by &lt;em&gt;clicking&lt;/em&gt; on the team in the left hand column and &lt;em&gt;selecting&lt;/em&gt; the &lt;strong&gt;+Add Member&lt;/strong&gt; button. &lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/organizations/team_members/add_member.png&#39; /&gt;&lt;/div&gt; Members can be added to this team by &lt;em&gt;clicking&lt;/em&gt; the green &lt;strong&gt;+&lt;/strong&gt; button to the left of their email. Optionally all members can be added to this team by &lt;em&gt;clicking&lt;/em&gt; the &lt;strong&gt;Add all&lt;/strong&gt; button. &lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/organizations/team_members/add_member_dialog.png&#39; /&gt;&lt;/div&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;team_member_settings&quot;&gt;Team Member Settings&lt;/h4&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/organizations/team_members/team_member_settings.png&#39; /&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;X&lt;/strong&gt;: remove the team member from the team.&lt;/li&gt;
+
+&lt;li&gt;&lt;strong&gt;email&lt;/strong&gt;: the team member’s email address.&lt;/li&gt;
+
+&lt;li&gt;&lt;strong&gt;organization admin&lt;/strong&gt;: give’s the team member the ability to access the organization dashboard.&lt;/li&gt;
+
+&lt;li&gt;&lt;strong&gt;team admin&lt;/strong&gt;: give’s the team member the ability to create and edit topics for that team as well as post to any of the team’s custom sources.&lt;/li&gt;
+
+&lt;li&gt;&lt;strong&gt;last active&lt;/strong&gt;: the last time the team member logged into backstitch.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;a name=&#39;Topics&#39; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#Top&quot;&gt;Top&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;topics&quot;&gt;Topics&lt;/h2&gt;
+
+&lt;p&gt;Within organizations topics can be shared with all team members or just those a part of specific teams.&lt;/p&gt;
+
+&lt;h4 id=&quot;add_team_topics&quot;&gt;Add Team Topics&lt;/h4&gt;
+
+&lt;p&gt;There are a few ways to share topics within your organization.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;From the organization dashboard&lt;/strong&gt;: create a new topic by &lt;em&gt;clicking&lt;/em&gt; the &lt;strong&gt;+Create Topic&lt;/strong&gt; button from the organization dashboard. &lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/organizations/topics/create_team_topic.png&#39; /&gt;&lt;/div&gt;&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;From the navigation bar&lt;/strong&gt;: create a new topic by &lt;em&gt;clicking&lt;/em&gt; the large &lt;strong&gt;+&lt;/strong&gt; button located on the navigation bar, then &lt;em&gt;click&lt;/em&gt; &lt;strong&gt;Create A New Topic&lt;/strong&gt; and select your team from the dropdown. &lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/organizations/topics/new_team_topic.png&#39; /&gt;&lt;/div&gt;&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Share an existing topic&lt;/strong&gt;: you can also share a topic from another team or one of your personal topics by &lt;em&gt;clicking&lt;/em&gt; the &lt;strong&gt;+Add Topic&lt;/strong&gt; button. &lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/organizations/topics/add_team_topic.png&#39; /&gt;&lt;/div&gt; Then &lt;em&gt;clicking&lt;/em&gt; the green &lt;strong&gt;+add&lt;/strong&gt; button will add the topic to the team. &lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/organizations/topics/add_team_topic_dialog.png&#39; /&gt;&lt;/div&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#39;note&#39;&gt;
+  Note: You must be a team admin to add topics to a team.
+&lt;/div&gt;
+&lt;h4 id=&quot;team_topic_settings&quot;&gt;Team Topic Settings&lt;/h4&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/organizations/topics/team_topic.png&#39; /&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Primary Topic (yellow star)&lt;/strong&gt;: set this topic as the team’s default topic. When team members log into backstitch they will be greeted with the default topic rather than their “What’s New” topic. (note: only one default topic can be selected per team)&lt;/li&gt;
+
+&lt;li&gt;&lt;strong&gt;Remove Topic (red X)&lt;/strong&gt;: allows you to either remove the topic from the team (and still be accessible by you) or to delete the topic forever (this cannot be undone).&lt;/li&gt;
+
+&lt;li&gt;&lt;strong&gt;Auto follow&lt;/strong&gt;: causes all members of this team to automatically follow this topic.&lt;/li&gt;
+
+&lt;li&gt;&lt;strong&gt;Allow unfollow&lt;/strong&gt;: determines if members of this team area allowed to unfollow this topic or not.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;a name=&#39;CustomSources&#39; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#Top&quot;&gt;Top&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;custom_sources&quot;&gt;Custom Sources&lt;/h2&gt;
+
+&lt;p&gt;Custom sources allow team admins to post content directly into backstitch. These sources can be added to topics and filtered like any third-party source.&lt;/p&gt;
+&lt;div class=&#39;note&#39;&gt;
+  To learn more about sources &lt;b&gt;&lt;a href=&#39;http://localhost:4000/2015/05/19/sources/&#39;&gt;check out this article&lt;/a&gt;&lt;/b&gt;.
+&lt;/div&gt;
+&lt;h4 id=&quot;create_source&quot;&gt;Create Source&lt;/h4&gt;
+
+&lt;p&gt;&lt;em&gt;Click&lt;/em&gt; the &lt;strong&gt;+Create Source&lt;/strong&gt; button to create a new custom source for this team.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/organizations/custom_sources/create_source.png&#39; /&gt;&lt;/div&gt;&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/organizations/custom_sources/create_source_dialog.png&#39; /&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Name&lt;/strong&gt;: This is the name of the source.&lt;/li&gt;
+
+&lt;li&gt;&lt;strong&gt;Description&lt;/strong&gt;: Give a description of what the source should be used for.&lt;/li&gt;
+
+&lt;li&gt;&lt;strong&gt;Allow public sharing&lt;/strong&gt;: This will allow team members to share custom source posts to the public through social media or email.&lt;/li&gt;
+
+&lt;li&gt;&lt;strong&gt;Promote to the top&lt;/strong&gt;: Promoted posts from custom sources will always be show above content from others sources for the designated number of days.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;create_post&quot;&gt;Create Post&lt;/h4&gt;
+
+&lt;p&gt;There are two ways to add a new post to a source.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;From the organization dashboard&lt;/strong&gt;: create a new post by &lt;em&gt;clicking&lt;/em&gt; the &lt;strong&gt;+New Post&lt;/strong&gt; button from the custom sources section of the organization dashboard. &lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/organizations/custom_sources/create_post.png&#39; /&gt;&lt;/div&gt;&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;From the navigation bar&lt;/strong&gt;: create a new post by &lt;em&gt;clicking&lt;/em&gt; the large &lt;strong&gt;+&lt;/strong&gt; button on the navigation bar, then &lt;em&gt;clicking&lt;/em&gt; &lt;strong&gt;Add a new post&lt;/strong&gt; and selecting the custom source to post to. &lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/organizations/custom_sources/create_post_menu.png&#39; /&gt;&lt;/div&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;There are &lt;strong&gt;three&lt;/strong&gt; types of posts that can be created.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/organizations/custom_sources/create_post_dialog.png&#39; /&gt;&lt;/div&gt;
+&lt;h4 id=&quot;link&quot;&gt;link&lt;/h4&gt;
+
+&lt;p&gt;backstitch will crawl the contents of the webpage found at the specified URL and bring it into your custom source as an article.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/organizations/custom_sources/link_post.png&#39; /&gt;&lt;/div&gt;
+&lt;h4 id=&quot;image&quot;&gt;image&lt;/h4&gt;
+
+&lt;p&gt;Upload an image into your custom source as a photo.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/organizations/custom_sources/image_post.png&#39; /&gt;&lt;/div&gt;
+&lt;h4 id=&quot;text&quot;&gt;text&lt;/h4&gt;
+
+&lt;p&gt;Author an original post and make it available in your custom source as an article.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/organizations/custom_sources/text_post.png&#39; /&gt;&lt;/div&gt;&lt;div class=&#39;note&#39;&gt;
+  Note: Custom sources is only available to backstitch for Business and Enterprise plans &lt;a href=&#39;http://backstit.ch/pricing&#39; target=&#39;_blank&#39;&gt;more info&lt;/a&gt;
+&lt;/div&gt;&lt;hr /&gt;
+&lt;p&gt;&lt;a name=&#39;Theme&#39; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#Top&quot;&gt;Top&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;theme&quot;&gt;Theme&lt;/h2&gt;
+
+&lt;p&gt;Organizations have the ability to customize the look and feel of backstitch for your team members.&lt;/p&gt;
+&lt;div class=&#39;note&#39;&gt;
+  Note: Some theme options are only available to backstitch for Business and Enterprise plans &lt;a href=&#39;http://backstit.ch/pricing&#39; target=&#39;_blank&#39;&gt;more info&lt;/a&gt;
+&lt;/div&gt;
+&lt;h4 id=&quot;name&quot;&gt;Name&lt;/h4&gt;
+
+&lt;p&gt;You can change your organization’s name at any time. Just &lt;em&gt;type&lt;/em&gt; the new name into the text box and &lt;em&gt;click&lt;/em&gt; &lt;strong&gt;save&lt;/strong&gt;.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/organizations/theme/org_name.png&#39; /&gt;&lt;/div&gt;
+&lt;h4 id=&quot;change_logo&quot;&gt;Change Logo&lt;/h4&gt;
+
+&lt;p&gt;Simply &lt;em&gt;click&lt;/em&gt; the &lt;strong&gt;choose logo&lt;/strong&gt; button, &lt;em&gt;locate&lt;/em&gt; the appropriate image file on your computer, and then &lt;em&gt;click&lt;/em&gt; &lt;strong&gt;save&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;This logo will replace the backstitch logo in the upper-left corner of backstitch for your team members and will also serve as the header image for your organization’s digest emails.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/organizations/theme/org_logo.png&#39; /&gt;&lt;/div&gt;
+&lt;h4 id=&quot;change_color&quot;&gt;Change Color&lt;/h4&gt;
+
+&lt;p&gt;Style backstitch using your organization’s brand color by simply &lt;em&gt;clicking&lt;/em&gt; one of the displayed colors or &lt;em&gt;type&lt;/em&gt; a hex value into the text box and &lt;em&gt;click&lt;/em&gt; &lt;strong&gt;save&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;This will change the top navigation bar as well as other accents throughout backstitch.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/organizations/theme/org_color.png&#39; /&gt;&lt;/div&gt;
+&lt;h4 id=&quot;display_options&quot;&gt;Display Options&lt;/h4&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/organizations/theme/display_options.png&#39; /&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Default Results Display&lt;/strong&gt;: This will set the default display format for all new team members.&lt;/li&gt;
+
+&lt;li&gt;&lt;strong&gt;Hide What’s New Banner&lt;/strong&gt;: The banner for the “What’s New” topic will be hidden for all team members.&lt;/li&gt;
+
+&lt;li&gt;&lt;strong&gt;Show Walkthrough to New Team Members&lt;/strong&gt;: After a new team member has been verified they are taken to any default/auto subscribed topics or the discover topic catalog, this option will send them through a walkthrough for backstitch.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;After making your changes simply &lt;em&gt;click&lt;/em&gt; the &lt;strong&gt;save&lt;/strong&gt; button.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;a name=&#39;Billing&#39; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#Top&quot;&gt;Top&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;billing&quot;&gt;Billing&lt;/h2&gt;
+
+&lt;h4 id=&quot;update_credit_card&quot;&gt;Update Credit Card&lt;/h4&gt;
+
+&lt;p&gt;You can update your credit card by simply &lt;em&gt;clicking&lt;/em&gt; the &lt;strong&gt;Update Credit Card&lt;/strong&gt; button.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/organizations/billing/update_credit_card.png&#39; /&gt;&lt;/div&gt;&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/organizations/billing/update_credit_card_dialog.png&#39; /&gt;&lt;/div&gt;
+&lt;h4 id=&quot;update_credit_card_2&quot;&gt;Update Credit Card&lt;/h4&gt;
+
+&lt;p&gt;You can upgrade your plan at anytime (more information on the &lt;a href=&#39;http://backstit.ch/pricing&#39; target=&#39;_blank&#39;&gt;plans here&lt;/a&gt;) by simply &lt;em&gt;clicking&lt;/em&gt; the &lt;strong&gt;Update Plan&lt;/strong&gt; button. You can also cancel your backstitch plan from this screen.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/organizations/billing/update_plan.png&#39; /&gt;&lt;/div&gt;&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/organizations/billing/update_plan_dialog.png&#39; /&gt;&lt;/div&gt;
+&lt;h4 id=&quot;invoices&quot;&gt;Invoices&lt;/h4&gt;
+
+&lt;p&gt;Your past invoices can be reviewed by &lt;em&gt;clicking&lt;/em&gt; on an invoice.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/organizations/billing/invoice.png&#39; /&gt;&lt;/div&gt;&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/organizations/billing/invoice_dialog.png&#39; /&gt;&lt;/div&gt;
+&lt;h4 id=&quot;current_usage&quot;&gt;Current Usage&lt;/h4&gt;
+
+&lt;p&gt;Your organization’s backstitch usage is shown this screen.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Team Members&lt;/strong&gt;: The number of unique team members that are part of you organization. &lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/organizations/billing/team_members.png&#39; /&gt;&lt;/div&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;strong&gt;API &amp;amp; Widget&lt;/strong&gt;: How many API and Widget calls you have used in the current billing period. &lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/organizations/billing/api_and_widget.png&#39; /&gt;&lt;/div&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;strong&gt;Topics&lt;/strong&gt;: The number of unique topics the organization owns. &lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/organizations/billing/topics.png&#39; /&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;a name=&#39;Support&#39; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#Top&quot;&gt;Top&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;support&quot;&gt;Support&lt;/h2&gt;
+
+&lt;p&gt;In the support tab you will find links to our API and Widget documentation as well as links back to this help document for future reference.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/organizations/support/documents.png&#39; /&gt;&lt;/div&gt;
+&lt;p&gt;Organization admins can submit support tickets with any comments, questions, or concerns and one of our team members will get back to them.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/organizations/support/support_ticket.png&#39; /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;#Top&quot;&gt;Top&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Account Settings</title>
+      <link>http://docs.backstit.ch/2015/05/16/account_settings/</link>
+      <pubDate>Sat, 16 May 2015 00:00:00 +0000</pubDate>
+      <author></author>
+      <guid>http://docs.backstit.ch/2015/05/16/account_settings</guid>
+      <description>&lt;p&gt;The account settings page can be accessed by &lt;em&gt;clicking&lt;/em&gt; on the &lt;strong&gt;settings gear&lt;/strong&gt; in the upper-right corner of backstitch and &lt;em&gt;clicking&lt;/em&gt; on &lt;strong&gt;Account Settings&lt;/strong&gt; from the drop down menu.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/account_settings/account_settings.png&#39; /&gt;&lt;/div&gt;
+&lt;p&gt;You can make the following changes your backstitch profile:&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&#39;Top&#39; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#Icon&quot;&gt;Icon&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;#Email&quot;&gt;Email Address&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;#DisplayName&quot;&gt;Display Name&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;#Timezone&quot;&gt;Timezone&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;#Password&quot;&gt;Password&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;#Newsletters&quot;&gt;Receive Newsletters&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;#Digest&quot;&gt;Digest Frequency&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;#Results&quot;&gt;Open Results with backstitch&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;#Services&quot;&gt;Authenticated Services&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;a name=&#39;Icon&#39; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#Top&quot;&gt;Top&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;icon&quot;&gt;Icon&lt;/h2&gt;
+
+&lt;p&gt;backstitch uses Gravatar to store our user icons. To change your icon &lt;em&gt;click&lt;/em&gt; the icon and create an account at &lt;strong&gt;www.gravatar.com&lt;/strong&gt; and add an icon for the email you used to sign up with backstitch.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/account_settings/icon.png&#39; /&gt;&lt;/div&gt;&lt;hr /&gt;
+&lt;p&gt;&lt;a name=&#39;Email&#39; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#Top&quot;&gt;Top&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;email_address&quot;&gt;Email Address&lt;/h2&gt;
+
+&lt;p&gt;You can change your email address for logging in and receive emails. To do so, &lt;em&gt;enter&lt;/em&gt; your new email address in the &lt;strong&gt;Email&lt;/strong&gt; text box. Don’t forget to &lt;em&gt;scroll&lt;/em&gt; to the bottom and &lt;em&gt;click&lt;/em&gt; &lt;strong&gt;Save Changes&lt;/strong&gt;.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/account_settings/email.png&#39; /&gt;&lt;/div&gt;&lt;hr /&gt;
+&lt;p&gt;&lt;a name=&#39;DisplayName&#39; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#Top&quot;&gt;Top&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;display_name&quot;&gt;Display Name&lt;/h2&gt;
+
+&lt;p&gt;To change your display name &lt;em&gt;enter&lt;/em&gt; the new display name in the &lt;strong&gt;Display Name&lt;/strong&gt; text box. Don’t forget to &lt;em&gt;scroll&lt;/em&gt; to the bottom and &lt;em&gt;click&lt;/em&gt; &lt;strong&gt;Save Changes&lt;/strong&gt;. Your display name is used when posting to custom sources.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/account_settings/display_name.png&#39; /&gt;&lt;/div&gt;&lt;hr /&gt;
+&lt;p&gt;&lt;a name=&#39;Timezone&#39; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#Top&quot;&gt;Top&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;timezone&quot;&gt;Timezone&lt;/h2&gt;
+
+&lt;p&gt;You can change your timezone by &lt;em&gt;selecting&lt;/em&gt; the new &lt;strong&gt;Timezone&lt;/strong&gt; from the drop down. Don’t forget to &lt;em&gt;scroll&lt;/em&gt; to the bottom and &lt;em&gt;click&lt;/em&gt; &lt;strong&gt;Save Changes&lt;/strong&gt;.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/account_settings/timezone.png&#39; /&gt;&lt;/div&gt;&lt;hr /&gt;
+&lt;p&gt;&lt;a name=&#39;Password&#39; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#Top&quot;&gt;Top&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;password&quot;&gt;Password&lt;/h2&gt;
+
+&lt;p&gt;To change your password, &lt;em&gt;enter&lt;/em&gt; your current password in the &lt;strong&gt;Existing Password&lt;/strong&gt; text box and &lt;em&gt;enter&lt;/em&gt; your desired new password in the &lt;strong&gt;New Password&lt;/strong&gt; text box. Make sure it’s a password that you can remember before you &lt;em&gt;scroll&lt;/em&gt; to the bottom and &lt;em&gt;click&lt;/em&gt; &lt;strong&gt;Save Changes&lt;/strong&gt;!&lt;/p&gt;
+
+&lt;p&gt;If you forget your password but are still logged in, you can change your password by &lt;em&gt;clicking&lt;/em&gt; the &lt;strong&gt;Reset&lt;/strong&gt; button near the &lt;strong&gt;Existing Password&lt;/strong&gt; box.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/account_settings/password.png&#39; /&gt;&lt;/div&gt;&lt;hr /&gt;
+&lt;p&gt;&lt;a name=&#39;Newsletters&#39; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#Top&quot;&gt;Top&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;receive_newsletters&quot;&gt;Receive Newsletters&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Unchecking&lt;/em&gt; the &lt;strong&gt;Recieve Newsletters&lt;/strong&gt; checkbox will turn off your personal digests from backstitch. However, this does not affect organization digests if a team you are associated with sends them out. Don’t forget to &lt;em&gt;scroll&lt;/em&gt; to the bottom and &lt;em&gt;click&lt;/em&gt; &lt;strong&gt;Save Changes&lt;/strong&gt;.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/account_settings/newsletter.png&#39; /&gt;&lt;/div&gt;&lt;hr /&gt;
+&lt;p&gt;&lt;a name=&#39;Digest&#39; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#Top&quot;&gt;Top&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;digest_frequency&quot;&gt;Digest Frequency&lt;/h2&gt;
+
+&lt;p&gt;You can change the frequency with which you receive your personal digest. Weekly digests are sent out on Mondays and Daily digests are sent out everyday, all digests are sent at 9:00am in your time zone. Don’t forget to &lt;em&gt;scroll&lt;/em&gt; to the bottom and &lt;em&gt;click&lt;/em&gt; &lt;strong&gt;Save Changes&lt;/strong&gt;.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/account_settings/digest.png&#39; /&gt;&lt;/div&gt;&lt;hr /&gt;
+&lt;p&gt;&lt;a name=&#39;Results&#39; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#Top&quot;&gt;Top&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;open_results_with_backstitch&quot;&gt;Open Results with backstitch&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Unchecking&lt;/em&gt; the &lt;strong&gt;Open Results with backstitch&lt;/strong&gt; checkbox will no longer open results inside of backstitch, instead when you &lt;em&gt;click&lt;/em&gt; on a result it will take you to the original source in a new tab.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/account_settings/results.png&#39; /&gt;&lt;/div&gt;&lt;div class=&#39;note&#39;&gt;
+  Note: Turning this off will disable certain features within backstitch: sharing results from within backstitch, using the Share to Wordpress plugin, and seeing highlighting indicating why this result is displayed in this topic.
+&lt;/div&gt;&lt;hr /&gt;
+&lt;p&gt;&lt;a name=&#39;Services&#39; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#Top&quot;&gt;Top&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;authenticated_services&quot;&gt;Authenticated Services&lt;/h2&gt;
+
+&lt;p&gt;Authenticating services gives you access to include &lt;strong&gt;&lt;a href=&quot;/2015/05/19/sources/&quot;&gt;sources&lt;/a&gt;&lt;/strong&gt; such as Facebook and Twitter into your &lt;strong&gt;&lt;a href=&quot;/2015/05/19/topics/&quot;&gt;topics&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/account_settings/authenticated_services.png&#39; /&gt;&lt;/div&gt;&lt;div class=&#39;note&#39;&gt;
+  Note: backstitch never accesses information from your account; authorization just allows backstitch the authority to retrieve publicly available content on your behalf.
+&lt;/div&gt;</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Plugins</title>
+      <link>http://docs.backstit.ch/2015/05/15/plugin/</link>
+      <pubDate>Fri, 15 May 2015 00:00:00 +0000</pubDate>
+      <author></author>
+      <guid>http://docs.backstit.ch/2015/05/15/plugin</guid>
+      <description>&lt;p&gt;backstitch offers topic plugins to get you and your team members the most out of your backstitch topic pages.&lt;/p&gt;
+
+&lt;p&gt;Plugins can be added to a topic from the bottom of the topic editor.&lt;/p&gt;
+
+&lt;p&gt;Navigate to the desired topic, &lt;em&gt;click&lt;/em&gt; the &lt;strong&gt;edit&lt;/strong&gt; button on the right of the toolbar, and scroll to the bottom of the editor to the &lt;strong&gt;Plugins&lt;/strong&gt; section and &lt;em&gt;click&lt;/em&gt; the &lt;strong&gt;Explore&lt;/strong&gt; button.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/plugins/explore_plugins.png&#39; /&gt;&lt;/div&gt;
+&lt;p&gt;The plugins are:&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&#39;Top&#39; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#API&quot;&gt;API&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;#Widget&quot;&gt;Widget&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;#PresentationMode&quot;&gt;Presentation Mode&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;#Wordpress&quot;&gt;Wordpress Publishing&lt;/a&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;a href=&quot;#Directory&quot;&gt;Directory&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;a name=&#39;API&#39; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#Top&quot;&gt;Top&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;api&quot;&gt;API&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Available to business and enterprise subscribers&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The API plugin allows you to utilize the curated results of your topic page from your own application.&lt;/p&gt;
+
+&lt;p&gt;You can activate the API plugin by &lt;em&gt;clicking&lt;/em&gt; on &lt;strong&gt;API&lt;/strong&gt; from the available plugins.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/plugins/api_plugin_0.png&#39; /&gt;&lt;/div&gt;&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/plugins/api_plugin_1.png&#39; /&gt;&lt;/div&gt;
+&lt;p&gt;The API plugin screen shows you:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;the total amount of calls the topic has made&lt;/li&gt;
+
+&lt;li&gt;the topic’s API token&lt;/li&gt;
+
+&lt;li&gt;a link to the API documentation&lt;/li&gt;
+
+&lt;li&gt;the ability to remove the plugin&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;For more information about the backstitch API, visit our &lt;a href=&quot;http://docs.backstit.ch/api&quot;&gt;API &amp;amp; Widget documentation by clicking here&lt;/a&gt;.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;a name=&#39;Widget&#39; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#Top&quot;&gt;Top&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;widget&quot;&gt;Widget&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Available to team, business, and enterprise subscribers&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The backstitch widget allows you to embed your topic page on your blog, website, or anywhere HTML is embeddable. With a very simple, lightweight bit of code that can be copied and pasted anywhere, with no iFrames necessary.&lt;/p&gt;
+
+&lt;p&gt;You can activate the Widget plugin by &lt;em&gt;clicking&lt;/em&gt; on &lt;strong&gt;Widget&lt;/strong&gt; from the available plugins.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/plugins/widget_plugin_0.png&#39; /&gt;&lt;/div&gt;&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/plugins/widget_plugin_1.png&#39; /&gt;&lt;/div&gt;
+&lt;p&gt;The Widget plugin screen shows you:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;the total amount of calls the topic has made&lt;/li&gt;
+
+&lt;li&gt;an option to choose how many results are displayed&lt;/li&gt;
+
+&lt;li&gt;the embed code&lt;/li&gt;
+
+&lt;li&gt;the ability to remove the plugin&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;For more information about the backstitch widget, visit our &lt;a href=&quot;http://docs.backstit.ch/api&quot;&gt;API &amp;amp; Widget documentation by clicking here&lt;/a&gt;.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;a name=&#39;PresentationMode&#39; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#Top&quot;&gt;Top&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;presentation_screen&quot;&gt;Presentation Screen&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Available to business and enterprise subscribers&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Presentation Screen allows your topic page to be viewed in a real-time, cascading display that is perfect for social media walls, office displays, and events.&lt;/p&gt;
+
+&lt;p&gt;To activate the Presentation Screen plugin &lt;em&gt;click&lt;/em&gt; the &lt;strong&gt;Presentation Screen&lt;/strong&gt; plugin from the available plugins.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/plugins/presentation_mode_plugin_0.png&#39; /&gt;&lt;/div&gt;&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/plugins/presentation_mode_plugin_1.png&#39; /&gt;&lt;/div&gt;
+&lt;p&gt;The Presentation Screen plugin screen shows you:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;a brief description of the plugin&lt;/li&gt;
+
+&lt;li&gt;an option to turn on and off approval mode&lt;/li&gt;
+
+&lt;li&gt;the ability to remove the plugin&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;To enter presentation mode &lt;em&gt;navigate&lt;/em&gt; to the topic and &lt;em&gt;clicking&lt;/em&gt; the &lt;strong&gt;expand&lt;/strong&gt; button in the toolbar.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/plugins/presentation_mode_plugin_2.png&#39; /&gt;&lt;/div&gt;
+&lt;p&gt;To exit presentation mode &lt;em&gt;click&lt;/em&gt; the &lt;strong&gt;collapse&lt;/strong&gt; button in the upper-right of the screen. &lt;em&gt;Hovering&lt;/em&gt; over the upper-right corner of the screen will increase the visibility of this button.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/plugins/presentation_mode_plugin_3.png&#39; /&gt;&lt;/div&gt;&lt;hr /&gt;
+&lt;p&gt;&lt;a name=&#39;Wordpress&#39; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#Top&quot;&gt;Top&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;wordpress_publishing&quot;&gt;Wordpress Publishing&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Available to team, business, and enterprise subscribers&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The Wordpress publishing plugin allows you to easily create blog posts based on the results you find in backstitch and post them directly to Wordpress.&lt;/p&gt;
+
+&lt;p&gt;You can activate the Wordpress plugin by &lt;em&gt;clicking&lt;/em&gt; on the &lt;strong&gt;Wordpress publishing&lt;/strong&gt; plugin from the available plugins. This will then direct you to authorize your blog with backstitch.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/plugins/wordpress_plugin_0.png&#39; /&gt;&lt;/div&gt;&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/plugins/wordpress_plugin_2.png&#39; /&gt;&lt;/div&gt;
+&lt;p&gt;The Wordpress Publishing plugin screen shows you:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;instructions on how to authenticate your blog&lt;/li&gt;
+
+&lt;li&gt;the ability to authenticate your blog&lt;/li&gt;
+
+&lt;li&gt;the ability to remove the plugin&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Once activated and authorized, you can create a blog post from within backstitch by &lt;em&gt;clicking&lt;/em&gt; on the result and &lt;em&gt;clicking&lt;/em&gt; on the &lt;strong&gt;Wordpress Logo&lt;/strong&gt; located in the action bar on the right.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/plugins/wordpress_plugin_1.png&#39; /&gt;&lt;/div&gt;
+&lt;p&gt;You can than edit the content of the post, add your own thoughts, and post it directly to your Wordpress blog.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;a name=&#39;Directory&#39; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;#Top&quot;&gt;Top&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;directory&quot;&gt;Directory&lt;/h2&gt;
+
+&lt;p&gt;The Directory plugin allows you to create a directory of links and contacts that appear either as the first card or as the banner of your topic.&lt;/p&gt;
+
+&lt;p&gt;You can add this plugin by &lt;em&gt;clicking&lt;/em&gt; the &lt;strong&gt;Directory&lt;/strong&gt; plugin from the available plugins.&lt;/p&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/plugins/directory_plugin_0.png&#39; /&gt;&lt;/div&gt;&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/plugins/directory_plugin_1.png&#39; /&gt;&lt;/div&gt;
+&lt;p&gt;The &lt;strong&gt;Links&lt;/strong&gt; tab allows you to:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;add links/phone number&lt;/li&gt;
+
+&lt;li&gt;remove links/phone numbers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#39;full zoomable&#39;&gt;&lt;img src=&#39;/images/plugins/directory_plugin_2.png&#39; /&gt;&lt;/div&gt;
+&lt;p&gt;The &lt;strong&gt;Theme&lt;/strong&gt; tab allows you to:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;name the directory&lt;/li&gt;
+
+&lt;li&gt;choose whether it appears as a result card or the banner&lt;/li&gt;
+
+&lt;li&gt;choose the link color and font-family&lt;/li&gt;
+
+&lt;li&gt;choose the background (either a solid color or an uploaded image).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;#Top&quot;&gt;Top&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;</description>
+    </item>
+    
+    
+
+  </channel> 
+</rss>
