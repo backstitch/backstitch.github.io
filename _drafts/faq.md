@@ -84,7 +84,7 @@ In the upper-right corner of backstitch, you will see a gear icon. Clicking this
 
 For more information about account settings, click [here])
 
-# How do I manage my organzation? 
+# How do I manage my organization? 
 
 Also in the context menu accessed by clicking the gear in the upper-right hand corner of the screen, you will see the name of your managed organization. Clicking on this will bring you to the organization dashboard.
 
