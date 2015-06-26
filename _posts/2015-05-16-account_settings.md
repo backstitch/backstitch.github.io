@@ -65,7 +65,7 @@ To change your display name *enter* the new display name in the **Display Name**
 
 --
 
-<a name='Tomezone'></a>
+<a name='Timezone'></a>
 
 [Top](#Top)<br />
 ## Timezone
