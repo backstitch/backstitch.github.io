@@ -177,16 +177,20 @@ Custom sources allow team admins to post content directly into backstitch.  Thes
 
 - **Name**: This is the name of the source.
 - **Description**: Give a description of what the source should be used for. 
+- **Email**: The automatically-generated email address assigned to this source.
+- **Crawl all links in email**: This will attempt to crawl any link found in emails sent to the source.
 - **Allow public sharing**: This will allow team members to share custom source posts to the public through social media or email. 
 - **Promote to the top**: Promoted posts from custom sources will always be show above content from others sources for the designated number of days.
 
 #### Create Post
 
-There are two ways to add a new post to a source.
+There are three ways to add a new post to a source.
 
 1.  **From the organization dashboard**: create a new post by *clicking* the **+New Post** button from the custom sources section of the organization dashboard. <div class="full zoomable"><img src="/images/organizations/custom_sources/create_post.png"></div>
 
 1. **From the navigation bar**: create a new post by *clicking* the large **+** button on the navigation bar, then *clicking* **Add a new post** and selecting the custom source to post to. <div class="full zoomable"><img src="/images/organizations/custom_sources/create_post_menu.png"></div>
+
+1. **Via email**: *Send* an email to the email address provided on the source dialog. 
 
 There are **three** types of posts that can be created.
 
@@ -210,8 +214,12 @@ Author an original post and make it available in your custom source as an articl
 
 <div class="full zoomable"><img src="/images/organizations/custom_sources/text_post.png"></div>
 
+#### email
+
+Send an email to the email address assigned to your custom source. The email will be available in your custom source exactly as it appears in your inbox. Links that are crawled if *crawl all links in email* is checked will be brought into your custom source as articles. 
+
 <div class="note">
-  Note: Custom sources is only available to backstitch for Business and Enterprise plans <a href="http://backstit.ch/pricing" target="_blank">more info</a>
+  Note: Custom sources are only available to backstitch for Business and Enterprise plans <a href="http://backstit.ch/pricing" target="_blank">more info</a>
 </div>
 
 --
