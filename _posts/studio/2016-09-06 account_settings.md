@@ -16,3 +16,6 @@ This changes the password of the account for log in purposes.
 
 ##Add integrations
 Studio can integrate with popular channels of communication such as gmail or Office 365. Click on the logo of the integration and authenticate by logging in to the respective channel.
+
+##Save Changes
+Changes are not automatically updated. To keep the changes, select "save changes."
