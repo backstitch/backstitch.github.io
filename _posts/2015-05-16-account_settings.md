@@ -1,6 +1,5 @@
 ---
 layout: post
-product: backstitch
 
 title: Account Settings
 
