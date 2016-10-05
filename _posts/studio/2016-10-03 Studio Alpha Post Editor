@@ -1,0 +1,47 @@
+#Post Editor
+
+##Post Creation
+To create a post, mouse over to the "+" button on the bottom right side and click on "New Post."
+
+##Features
+
+###Style and Formatting
+Like any other word editor, Studio allows you to format and style your text. These features include bolding, italicizing, and underlining; changing of font styles and sizes; adding text or background colors; and editing the text alignment. All these features can be utilized in the top bar above the document.
+
+###Code View
+Studio also comes with a feature to allow you to see and modify the html code of the text. Simply click on the "Code View" button on the top left corner of the top bar to toggle between html view and regular view.
+
+###Custom images
+You can insert your own images by clicking on the "Insert Image" button on the top toolbar. From there, you can drag in an image, look it up with a url, or find it from your computer with a file browser. When an image is inserted into the text editor, click on it to display a toolbar of options for editing. Images can be replaced or deleted, aligned or displayed in-line, bordered, resized, or even paired with a link that people can click.
+
+##Media Library
+Studio also comes with an array of custom assets that can be utilized to further create and draft documents. The toolbar for the media library is located on the left hand side. The items from the media library can be dragged and dropped into the proper placement within the post.
+
+###Clips
+The clips are a list of topics created in backstitch. These include the standard topics, as well as any custom topics that you may have created if you own a backstitch account. By selecting a topic, you can then find a relevant post from that topic and insert it directly into the word editor.
+
+###Assets
+The asset library is a collection of free stock photos you can utilize in your posts. It contains a variety of stock photo providers.
+
+###Tools
+Tools are custom features that can further enhance your documents.
+
+####Button Creator
+The button creator allows customization of clickable buttons. When clicking on the button creator, a new box will pop up, allowing you to edit the text, select the link the button directors to, and chance the background, text, and border color of the button. When it looks satisfactory in the preview box, it can be inserted. Once the button is posted, it can still be modified with different styles, text, and links.
+
+####Poll Builder
+Studio allows you to create your own custom polls and insert it directly into the post, allowing for surveys to be created in the body of the message instead of a separate link. By clicking on the Poll Builder button, a new dialog box will pop up allowing you to write your question and enter in responses. If you have more responses, simply click the Add Response button on the bottom left side. When the poll is created, click on the Insert button to post it onto the body of the message.
+
+Multiple polls can be created within a single post, and each question is tracked separately, allowing for detailed analytics on the responses.
+
+####Post Summary
+The Post Summary is a special feature that allows users to automatically generate a summary or abstract. When selecting the Post Summary option, Studio will automatically scan through the text and create a summary. You can then edit and modify the title and text further, and paste it into the post afterwards. It will be formatted differently from the rest of the body of text to differentiate itself as a summary. Once pasted, it can still be edited over if it requires further modifications.
+
+##Saving
+When you want to save the post, simply click the Save button on the bottom right, and it will redirect you to a preview of your post. The post won't be published until you select the Publish button on the bottom right side. To return and edit it further, click on the pencil icon right above the Publish button. If you do not want to save the draft, you can click on "Recent Posts" underneath the Account Settings on the top right side.
+
+##Review mode
+A review mode is provided so that you can look through your post before you publish it out. To access the review screen, simply click on the "Review" button on a post in the Post Manager, or click on the "Save" button on the Post Editor.
+
+##Publishing
+To publish a post, press the "Publish" button on the bottom right corner of the Review screen. From there, you are able to specify which channel you want the post to be distributed to. 

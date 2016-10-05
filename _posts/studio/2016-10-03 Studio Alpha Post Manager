@@ -1,0 +1,13 @@
+#Post Manager
+The Post Manager is a collection of all your posts, both drafts and published. They are separated into categories and can be managed in the Post manager. To return to the Post Manager from any screen, click on the account setting on the top right corner, and then select "Recent Posts."
+
+##Categories
+Categories are the different sections that posts can be grouped into. New categories can be created by moving down to the "+" button on the bottom right corner and selecting "New Category."
+
+To create a post within a specific category. Select the category on the top toolbar, then move down to the "+" button on the bottom right and select "New Post."
+
+##Editing Posts
+Posts that have been drafted or even published can still be edited further, as long as it has not been deleted or archived. To edit a post, find it within the category that it is in, and click on the "Edit" button. If you would like to take a look at the post before editing it, click on the "Review" button instead.
+
+##Removing Posts
+Posts that have not been published out can be deleted. Those that have been published already can instead be archived to clean out the Post Manager. This is also a handy way to determine whether a post has been published or not on the Post Manager window. Simply press the "Delete" or "Archive" buttons on a post to remove it from the Post Manager.
