@@ -1,3 +1,20 @@
+---
+layout: post
+product: studio
+
+title: Post Editor
+
+excerpt: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+author:
+  name: backstitch
+  twitter: backstitch
+  gplus: 118146420164924904796
+  bio: Personalize Communications
+  image: icon.png
+---
+
+
 ####Hi, it looks like you're all ready to create your own posts.
 
 The Post Editor is a more powerful word editor. You can type and format like any other word editor, insert images or videos, even create interactive buttons and polls.
