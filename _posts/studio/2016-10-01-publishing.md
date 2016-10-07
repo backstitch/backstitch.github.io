@@ -16,7 +16,7 @@ author:
 
 Studio integrates with many different other tools for internal communications. In the Publish screen, you are able to choose which channel you want your post to be delivered through.
 
-<a name='Top'></a>
+<a name='Top'> </a>
 ###How do I...?###
 
 [Send out my post](#Publishing)<br />
@@ -24,7 +24,7 @@ Studio integrates with many different other tools for internal communications. I
 
 --
 
-<a name='Publishing'></a>
+<a name='Publishing'> </a>
 
 [Top](#Top)<br />
 ##Publishing
@@ -37,7 +37,7 @@ A new screen will pop up, allowing you to choose where you want the post to be p
 
 --
 
-<a name='Analytics'></a>
+<a name='Analytics'> </a>
 
 [Top](#Top)<br />
 ##Analytics

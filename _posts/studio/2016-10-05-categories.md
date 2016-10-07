@@ -17,7 +17,7 @@ author:
 
 Posts are arranged into groups known as Categories. From the main landing screen, all posts are placed into a category for easy accessibility.
 
-<a name='Top'></a>
+<a name='Top'> </a>
 
 ###How do I...?###
 
@@ -25,10 +25,9 @@ Posts are arranged into groups known as Categories. From the main landing screen
 [Pick a category](#Select)<br />
 
 --
-
+<a name='Create'> </a>
 [Top](#Top)<br />
 
-<a name='Create'></a>
 ##Create a category
 New categories can be created by moving down to the **+ button** on the bottom right corner. The button will automatically transform into two new buttons.
 
@@ -47,10 +46,9 @@ Your new Category should be in the top toolbar now.
 <div class="full zoomable"><img src="/images/studio/categories/new_4.png"></div>
 
 --
-
+<a name='Select'> </a>
 [Top](#Top)<br />
 
-<a name='Select'></a>
 ##Selecting a category
 Categories can be selected from the top toolbar.
 
